@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/99/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>native text data entry input</title>
+    <link>https://code.coronalabs.com/taxonomy/term/99/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/99/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Forms -- Native text entry fields based on scrollView widget</title>
+    <link>https://code.coronalabs.com/code/forms-native-text-entry-fields-based-scrollview-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;As you already know, native text fields in Corona don&#039;t scroll with the OpenGL canvas......I&#039;ve built this &quot;form&quot; module to support creating fields and managing their placement on the screen (relative to keyboard).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;deweyg&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Feb 2014 21:02:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">68 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

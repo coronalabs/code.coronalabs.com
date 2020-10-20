@@ -1,0 +1,800 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600italic,300,600,400);
+
+/* The basics here */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+    word-wrap: break-word;
+    background: #F9F9F9;
+    /* Margin bottom by footer height */
+    margin-bottom: 100px;
+}
+@media(min-width:768px) {
+    body {
+        margin-bottom: 400px;
+    }
+}
+@media(min-width:1010px) {
+    body {
+        margin-bottom: 200px;
+    }
+}
+body.page-template-tpl-iframe-php {
+    background-color: #FFF;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 15px;
+    margin-bottom: 7.5px;
+}
+
+h5.media-heading {
+    margin: 2.5px 0 !important;
+}
+.panel-default>.panel-heading {
+    padding: 6px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    background-color: #dedede;
+}
+blockquote {
+    padding: 10px 20px;
+    margin: 0px 0px 20px;
+    font-size: 15px;
+    border-left: 7.5px solid #EEE;
+    font-style: italic;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #595555;
+}
+h1.page-header {
+    padding-bottom: 9px;
+    margin: 0px 0px 20px;
+    border-bottom: 1px solid #EEE;
+}
+h4.block-title {
+    margin-top: 0;
+}
+/* CODE BLOCKS / CODE COLORING OVERRIDE
+------------------------------------------------------------ */
+
+pre, code {font-family: Monaco, Menlo, Consolas, "Courier New", monospace;}
+
+pre, code {
+    line-height: 1.25;
+    font-size: 12px;
+    font-style: normal !important;
+    font-weight: normal !important;
+}
+
+pre {
+    border: 1px solid rgba(2,0,0,0.1);
+    background-color: #fcfbfb !important;
+    display: block;
+    margin: 14px 0px 22px 0px;
+    overflow: auto;
+    padding: 5px 10px 5px 10px;
+    white-space: pre;
+}
+
+code {
+    border: 1px solid rgba(2,0,0,0.08);
+    background-color: #fcfbfb !important;
+    color: #444455 !important;
+    padding: 2px 4px;
+}
+
+pre code {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    border: none;
+    overflow: visible;
+}
+
+/* -----------------------------
+    Minor Bootstrap 3 tweaks 
+-------------------------------- */
+.form-control.form-checkboxes.bef-select-as-checkboxes {
+    height: auto;
+}
+input.form-control[type="checkbox"],
+.form-type-bef-checkbox label.option {
+    width: auto;
+    height: auto;
+    display: inline-block;
+}
+.form-control.form-checkboxes.bef-select-as-checkboxes.bef-select-all-none.bef-processed {
+height: auto;
+}
+.views-exposed-form .views-exposed-widget {
+float: left;
+width: 100%;
+padding: 0 0 15px;
+height: auto;
+}
+#block-menu-menu-corona-plugin-marketplace {
+    margin-bottom: 30px;
+}
+
+#admin-menu, #admin-menu .dropdown {
+    z-index: 1100;
+}
+body.admin-menu {
+    margin-top: 30px
+}
+body.admin-menu .site-navigation .navbar-fixed-top {
+    top: 30px;
+}
+#overlay-container, .overlay-modal-background, .overlay-element {
+    z-index: 1099;
+}
+/* Fix for the google custom search form */
+.reset-box-sizing,
+.reset-box-sizing * {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+#corona-cse #gs_tti50 {
+    padding-top: 0 !important;
+}
+#corona-cse .gsc-selected-option-container {
+    font-size: 85% !important;
+}
+body div#wrap {
+    margin-top: 80px;
+}
+body.admin-menu div#wrap {
+    margin-top: 100px;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #ECECEC;
+    border: 1px solid #DADADA;
+    border-radius: 5px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.well.well-clear {
+    background-color: #F9F9F9;
+    border-color: #F9F9F9;
+}
+.panel {
+border-radius: 5px;
+-webkit-box-shadow: none;
+box-shadow: none;
+}
+#commerce-checkout-form-checkout .panel {
+border-radius: 5px;
+border-width: 0;
+-webkit-box-shadow: inset 0 0 2px #aaa;
+box-shadow: inset 0 0 2px #aaa;
+}
+#content-wrapper {
+    background: none;
+}
+.lead {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #000;
+    padding: 0;
+    margin: 7.5px 0;
+}
+h3.lead {
+    font-size: 2em;
+}
+.h1.lead {
+    font-size: 2.6em;
+    line-height: 1.075;
+}
+h1.lead {
+    font-size: 2.5em;
+}
+
+h6.text-muted {
+    margin: 4px 0px;
+}
+hr {
+    border-color: #dadada;
+}
+hr.no-line {
+    border-width: 0;
+}
+.fade-out {
+    opacity: .72;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    -ms-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+.fade-out:hover {
+    opacity: 1;
+}
+.page hr, .hr30 hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+.hr15 hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}    
+/*  Custom navbar changes for Corona  */
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 0;
+}
+.navbar-default a.navbar-brand {
+    font-size: 21px;
+    background-image: url('https://coronalabs.com/images/46x46_logo_sprite.png');
+    /*background-position: 24px 0;*/
+    background-repeat: no-repeat;
+    background-size: 38px 76px;
+    padding: 8px 0 0 38px;
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-left: 0;
+    height: 38px;
+    color: #D06D2B;
+    }
+    .navbar-default a.navbar-brand:hover {
+        color: #D06D2B;
+    }
+.navbar-default .navbar > a {
+    font-size: 18px;
+}
+.site-navigation .nav > li > a {
+    padding-right: 10px;
+    padding-left: 10px;
+    /*font-size: 14px;*/
+}
+.site-navigation .nav {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.navbar-default {
+    background-color: rgba(255, 255, 255, 0.94);
+    border-color: #E7E7E7;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background-color: none;
+    background-color: rgba(0, 0, 0, 0.0);
+    color: #D06D2B;
+}
+@media(max-width:767px) {
+    .navbar-default a.navbar-brand {
+        background-position: 10px 0px;
+        padding: 8px 0px 0px 55px;
+    }
+    .lead {
+        font-size: 1.6em;
+    }
+}
+.navbar-default .navbar-toggle {
+    border-color: #DDD;
+    margin-right: 10px;
+    padding: 7px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#download-link {
+    margin-left: 10px;
+}
+#search-icon-link.navbar-text {
+    margin-bottom: 0;
+}
+.search-link button, #search-icon-link a {
+    font-size: 18px;
+    color: #707070;
+    padding-right: 0;
+    margin-right: 10px;
+    line-height: 1;
+}
+#search_form {
+    margin: 10px 0 0;
+    padding: 0;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #D06D2B;
+    background: none;
+}
+body.admin-bar .navbar-fixed-top {
+    margin-top:32px;
+}
+.btn-default {
+    background-color: #F9F9F9;
+}
+.top {
+    vertical-align: top;
+}
+.bottom {
+    vertical-align: bottom;
+}
+
+
+/* Make sure embeds and iframes fit their containers */
+embed,
+iframe,
+object {
+    max-width: 100%;
+}
+
+/* Text meant only for screen readers */
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+}
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000; /* Above WP toolbar */
+}
+
+
+/*  Custom btn classes for Corona  */
+.btn-corona {
+    color: #FFF;
+    background-color: #D06D2B;
+    border-color: #D06D2B;
+}
+.btn-corona:hover, .btn-corona:focus, .btn-corona:active, .btn-corona.active, .open > .dropdown-toggle.btn-corona {
+    color: #FFF;
+    background-color: #F57F20;
+    border-color: #F57F20;
+}
+.btn-clear {
+    color: #FFF;
+    background-color: rgb(255,255,255);
+    background-color: rgba(255,255,255,.01);
+    border-color: #D06D2B;
+}
+.btn-clear:hover, .btn-clear:focus, .btn-clear:active, .btn-clear.active, .open > .dropdown-toggle.btn-clear {
+    color: #D06D2B;
+    background-color: rgb(255,255,255);
+    background-color: rgba(255,255,255,.88);
+    border-color: #F57F20;
+}
+
+/*------------------------------------------*/
+/*   Black Button
+/*------------------------------------------*/
+
+.btn-black {
+    background-color: #444;
+    border: 1px solid #444;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 10px 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-transition: all 200ms ease-in-out;
+    -moz-transition: all 200ms ease-in-out;
+    -o-transition: all 200ms ease-in-out;
+    -ms-transition: all 200ms ease-in-out;
+    transition: all 200ms ease-in-out;
+}
+
+.btn-black:hover {
+    background-color: #222;
+    border-color: #222;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+/*------------------------------------------*/
+/*   Button Large
+/*------------------------------------------*/
+
+.btn-lg {
+    padding: 12px 24px;
+    font-size: 18px;
+}
+
+/*------------------------------------------*/
+/*   Button Hover/Focus
+/*------------------------------------------*/
+
+.btn:focus {
+    outline: none;
+}
+
+.btn:focus {
+    color: #f8f8f8;
+    text-decoration: none;
+}
+
+
+/********************* 
+    Footer Style 
+*********************/
+.site-footer {
+    background: none repeat scroll 0 0 #474444;
+    /*margin-top: 100px;*/
+    padding: 30px 0;
+    color: #eaeaea;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.site-footer hr {
+    padding: 0;
+    margin: 5px 0;
+    border-color: #5F5C5C;
+}
+#menu-standard-footer-menu ul {
+    margin:0;
+    padding:0;
+}
+#menu-standard-footer-menu {
+    margin-left: 0px;
+    padding-bottom: 15px;
+}
+#menu-standard-footer-menu li {
+    list-style: none;
+    margin:0px 30px 0px 0px;
+    float:left;
+    font-weight:bold;
+    border-bottom:1px solid #5F5C5C;
+    color: #f9f9f9;
+    font-family: 'Open Sans', sans-serif;
+}
+a.footer-group-header {
+    text-decoration: none;
+    display:block;
+    color: #a9a9a9;
+    border-bottom:1px solid #5F5C5C;
+    margin-top: 15px;
+}
+a.footer-group-header:hover {
+    text-decoration: underline;
+    display:block;
+    color: #e9e9e9;
+    border-bottom:1px solid #5F5C5C;
+    margin-top: 15px;
+}
+.sub-footer-menu a {
+    color: #eaeaea;
+    font-size: 12px;
+    font-weight: 100;
+}
+#menu-standard-footer-menu .current-menu-item {
+    border-bottom:1px solid white;
+}
+strong.search-excerpt { background: yellow; }
+
+#menu-standard-footer-menu li {
+    width: 10.1em;
+    font-weight:normal;
+    border-bottom: none;
+}
+.sub-footer-menu li {
+    margin-left: 0px !important;
+}
+.footer-links li a {
+    border-bottom: medium none;
+    color: #888;
+    font-size: 12px;
+    font-weight: 100;
+    margin-left: 0 !important;
+    text-decoration: none;
+}
+#inner-footer{
+
+}
+a.followIcons {
+    display: block;
+    float: left;
+    width: 32px;
+    height: 33px;
+    border: 1px solid transparent;
+    padding-right: 4px;
+    opacity: 0.8;
+}
+.footer-footer a {
+    color: #eaeaea !important;
+}
+
+
+
+
+
+
+
+
+
+.node-type-code .field-type-taxonomy-term-reference,
+.node-type-code .field-name-field-nickname {
+    margin: 20px 0 0;
+}
+.field-name-field-repo-url {
+    margin-bottom: 20px;
+}
+.field-type-taxonomy-term-reference .field-item {
+    display: inline;
+}
+.field-type-taxonomy-term-reference .field-item a {
+    display: inline-block;
+    padding: 0 8px;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+    margin: 0 2px;
+}
+.captcha.panel.panel-default.form-wrapper {
+    clear: both;
+}
+.field-name-field-gist-token {
+	margin-top: 20px;
+}
+#disqus_thread {
+	margin: 40px 0;
+}
+.field-name-field-plugin-popularity {
+    width: 57px;
+    position: absolute;
+    margin-left: -70px;    
+    text-align: center;
+    font-size: 11px;
+}
+.field-name-field-plugin-description,
+.field-name-field-plugin-product {
+    margin: 15px 0;
+}
+.page-header {
+	text-transform: capitalize;
+}
+.views-exposed-widgets {
+    margin-bottom: 1.8em;
+}
+.navbar #block-search-form {
+	float: right;
+	width: 200px;
+	margin-right:-15px;
+	margin-top: 8px;
+}
+.front .navbar {
+    margin-bottom: 50px;
+}
+.region-sidebar-second #block-views-exp-code-exchange-list-page,
+.region-sidebar-second #block-tagclouds-1,
+#block-block-6 {
+    background: none repeat scroll 0 0 #F8F8F8;
+    border-left: 3px solid #DADADA;
+    margin: 0 0 10px;
+    padding: 10px;
+    opacity: .85;
+    transition: .6s ease-out;
+    -moz-transition: .6s ease-out;
+    -webkit-transition: .6s ease-out;
+    -o-transition: .6s ease-out;
+}
+.region-sidebar-second #block-views-exp-code-exchange-list-page:hover,
+.region-sidebar-second #block-tagclouds-1:hover,
+#block-block-6:hover {
+    opacity: 1;
+    border-left: 3px solid #4E7FC2;
+}
+.front #block-block-5 {
+	margin: 20px 0;
+}
+.filter-wrapper {
+	display: none;
+}
+#edit-field-gist-token {
+	width: 25%;
+	float: left;
+    margin-top: 0;
+}
+#edit-field-repo-url {
+	width: 70%;
+	float: left;
+    margin-right: 5%;
+}
+#edit-body {
+	clear: both;
+}
+.description, .help-block {
+	font-size: .85em;
+	color:#888;
+}
+#edit-field-gist-token .description, 
+#edit-field-repo-url .help-block {
+    margin-top: -14px;
+}
+.form-type-checkbox {
+    float: left;
+    margin: 0 !important;
+    width: 33%;
+}
+#edit-field-code-group {
+	clear: both;
+	min-height: 125px;
+}
+.field-type-taxonomy-term-reference {
+    clear: both;
+    margin: 20px 0 0;
+}
+.btn-primary.btn-primary-corona {
+    background-color: #E89957;
+    border-color: #E89957;
+}
+.btn-primary.btn-primary-corona:hover {
+    background-color: #F57F20;
+    border-color: #F57F20;
+}
+.view-footer {
+    margin: 10px 0;
+}
+#footer {
+    background-color: #F5F5F5;
+    height: 80px;
+    color: #777;
+}
+#edit-field-evoo {
+    display: none;
+}
+#wrap {
+    height: auto;
+    margin: 0 auto -80px;
+    min-height: 100%;
+    padding: 0 0 180px;
+}
+.node-type-code .node-code {
+    padding-left: 65px;
+}
+.preview {
+    padding: 10px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 1px solid #D6E9C6;
+    margin-bottom: 20px;
+}
+.preview h3 {
+    font-size: 1.25em;
+    color:#DADADA;
+}
+.preview .node-code{
+    padding-left: 0;
+}
+.preview .vud-widget {
+    display: none;
+}
+#edit-field-nickname {
+    float: left;
+    margin-right: 5%;
+    width: 30%;
+    margin-top: 0;
+}
+#edit-field-email {
+    float: left;
+    width: 65%;
+}
+.field .field-label, 
+.views-label-disqus-comment-count,
+.submitted .time-label {
+    color: #A4A4A4;
+    font-weight: 300;
+}
+.submitted .time-label {margin-top: 20px; font-style: normal;}
+.views-field-created .views-label-created {
+    color: #D06D2B;
+}
+.views-exposed-form label {
+    font-weight: normal;
+    margin-bottom: 0px;
+}
+.view-id-code_exchange_list.view-display-id-page .views-row {
+    margin-bottom: 40px;
+}
+.item-group-wrapper {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-bottom: 3px solid #DADADA;
+    margin-top: 5px;
+    opacity: 0.68;
+    padding: 4px 4px 5px;
+    transition: .6s ease-out;
+    -moz-transition: .6s ease-out;
+    -webkit-transition: .6s ease-out;
+    -o-transition: .6s ease-out;
+}
+.views-row:hover .item-group-wrapper {
+    opacity: 1;
+    border-color: #4E7FC2;
+}
+.view-id-code_exchange_list.view-display-id-page .view-header {
+    position: absolute;
+    right: 20px;
+    top: 0;
+}
+#rss-feed img {
+    width:30px;
+    height:30px;
+}
+.vud-widget .element-invisible {
+    position: absolute;
+}
+.vud-widget-alternate .alternate-votes-display {
+    border: 1px solid #DADADA;
+    font-family: Georgia,serif;
+    font-size: 18px;
+    border-radius: 100px;
+    height: 34px;
+    padding: 2px;
+    text-align: center;
+    color: #428BCA;
+}
+#block-system-user-menu .menu.nav li {
+    float: right;
+    margin: 14px 20px 0 0;
+    padding: 0;
+}
+#block-system-user-menu .menu.nav li a{
+    margin: 0;
+    padding: 0;
+}
+
+.maintenance-page.in-maintenance {
+    text-align: center;
+    width: 800px;
+    margin: 80px auto;
+}
+.maintenance-page.in-maintenance #footer-wrapper {
+    display: none;
+}
+
+.view-plugin-catalog .views-row .well {
+    height: 220px;
+}
+.block.block-search {
+    margin-bottom: 1.8em;
+}
+.view-plugin-catalog img {
+    max-width: 100%;
+    height: auto;
+}
+.view-plugin-catalog .form-submit {
+    position: absolute;
+    bottom: 24px;
+    right: 24px;
+}
+.view-plugin-catalog .well.well-sm {
+background: #fff;
+}
+.btn-primary[disabled], .btn-success[disabled], 
+.btn-primary[value="In Cart"], .btn-success[value="In Cart"] {
+background-color: #ededed;
+border-color: #dadada;
+color: #989898;
+}
+#vote-count {
+    position: absolute;
+    top: -8px;
+}
+.label-default {
+    background-color: #d2d2d2
+}

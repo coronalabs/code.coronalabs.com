@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/20/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Graphics</title>
+    <link>https://code.coronalabs.com/taxonomy/term/20/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/20/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>layout.lua - Device independent layout manager</title>
+    <link>https://code.coronalabs.com/code/layoutlua-device-independent-layout-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The layout manager makes it easy to create &lt;em&gt;regions&lt;/em&gt;, rectangular areas defined relative to the screen, the stage (which may or may not be the full screen), and to the previously created user-defined regions. The final regions are created with content coordinates.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ron&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jun 2016 22:26:47 +0000</pubDate>
+ <dc:creator>ron5</dc:creator>
+ <guid isPermaLink="false">200 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Point - A 2D Math Library.  Simplifies vector math.</title>
+    <link>https://code.coronalabs.com/code/point-2d-math-library-simplifies-vector-math</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2d Math Library for Corona SDK / Lua&lt;/p&gt;
+&lt;p&gt;Point is a 2d math library for Corona SDK or just plain ol&#039; lua. It allows us to think of positions within corona as single units (points) vs independent x and y coordinates.  You can run methods directly on those points.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tameem Hamoui&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 May 2016 05:33:43 +0000</pubDate>
+ <dc:creator>tameem50</dc:creator>
+ <guid isPermaLink="false">198 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Display Object Color Transition</title>
+    <link>https://code.coronalabs.com/code/display-object-color-transition</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;transition.to doesn&#039;t seem to support color transitions. So I made one myself using enterFrame, which is how I suspect corona&#039;s transition library works too.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;danielr0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Apr 2016 04:18:51 +0000</pubDate>
+ <dc:creator>danielr0</dc:creator>
+ <guid isPermaLink="false">196 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona SDK Color Converter</title>
+    <link>https://code.coronalabs.com/code/corona-sdk-color-converter</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Converts your hex (html-format) or RGB values into Corona-compatible format (numbers from 0 to 1). No difficulties, only two functions: &lt;code&gt;hex(&#039;value&#039;)&lt;/code&gt; and &lt;code&gt;rgb(rNum, gNum, bNum)&lt;/code&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;SpyceR&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 16 Jan 2016 00:18:01 +0000</pubDate>
+ <dc:creator>Spycer</dc:creator>
+ <guid isPermaLink="false">194 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Circle or ring segment library function.</title>
+    <link>https://code.coronalabs.com/code/circle-or-ring-segment-library-function</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create a filled or unfilled circle or ring and move the output polygon by the circle centre not the polygon centre.&lt;/p&gt;
+&lt;p&gt;Requires the mathlib library: &lt;a href=&quot;https://code.coronalabs.com/code/mathliblua&quot;&gt;https://code.coronalabs.com/code/mathliblua&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Nov 2015 09:08:55 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">190 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Outlined Text via Snapshots</title>
+    <link>https://code.coronalabs.com/code/outlined-text-snapshots</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Uses snapshots and text objects to make outlined text in the Corona SDK. Good performance since the outlines are only drawn when the text changes...&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ponywolf&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Aug 2015 19:17:17 +0000</pubDate>
+ <dc:creator>ponywolf</dc:creator>
+ <guid isPermaLink="false">185 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fibonacci clock</title>
+    <link>https://code.coronalabs.com/code/fibonacci-clock</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Graphical representation utilizing the Fibonacci sequence to tell the time.&lt;br /&gt;
+Clock video demo :&lt;br /&gt;
+&lt;a href=&quot;https://youtu.be/bi-uZVHnfbI&quot;&gt;https://youtu.be/bi-uZVHnfbI&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;shayde&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 31 Jul 2015 00:02:13 +0000</pubDate>
+ <dc:creator>shaydebarra</dc:creator>
+ <guid isPermaLink="false">184 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Pinch zoom scroll touch</title>
+    <link>https://code.coronalabs.com/code/pinch-zoom-scroll-touch</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple code that allows multitouch and single touch on an image.&lt;br /&gt;
+In my project I added lots of assets on top of the image and put them all in a container. This allowed me move a chart (map) and overlay marks and routes and have them all zoom, pinch and scroll.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Conor O&amp;#039;Nolan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Jun 2015 07:00:09 +0000</pubDate>
+ <dc:creator>conor1</dc:creator>
+ <guid isPermaLink="false">183 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Transition Matrix</title>
+    <link>https://code.coronalabs.com/code/color-transition-matrix</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function returns a matrix of RGB values that allow you to gradually change from one color to another using a single index, like the position of a scrollview/springboard.&lt;/p&gt;
+&lt;p&gt;It takes a two dimensional array of RGB colors, each page width and the total amount of pages.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tanner Gower&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 May 2015 03:23:28 +0000</pubDate>
+ <dc:creator>triggdev</dc:creator>
+ <guid isPermaLink="false">181 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sliced Images</title>
+    <link>https://code.coronalabs.com/code/sliced-images</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Have you ever wondered how to create 9-sliced images using Corona? Corona only provides a few possibilities to do it, but it requires 9 previously sliced images to mount it at runtime, but now you can do it using just one image!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PhoerLevine&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 01 May 2015 20:44:40 +0000</pubDate>
+ <dc:creator>PhoerLevine</dc:creator>
+ <guid isPermaLink="false">180 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Create a drop shadow</title>
+    <link>https://code.coronalabs.com/code/create-drop-shadow</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create a drop shadow without the use of snapshot without the use of snapshot.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Apr 2015 05:34:31 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">179 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Auto slideshow from folder</title>
+    <link>https://code.coronalabs.com/code/auto-slideshow-folder</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;@@ Currently working on Corona Simulator, XCode Simulator and IOS build This is a module I initially made because I often end up making an intro with images, explaining how to play.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Hendrix000007&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Apr 2015 22:23:11 +0000</pubDate>
+ <dc:creator>Hendrix000007</dc:creator>
+ <guid isPermaLink="false">177 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fill a Vertical Progress Indicator</title>
+    <link>https://code.coronalabs.com/code/fill-vertical-progress-indicator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to place a vertical progress indicator in your code here is how to do it!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Arthur A. Roberts&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 Apr 2015 11:47:33 +0000</pubDate>
+ <dc:creator>aaroberts</dc:creator>
+ <guid isPermaLink="false">175 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Textrender</title>
+    <link>https://code.coronalabs.com/code/corona-textrender</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics.&lt;/p&gt;
+&lt;p&gt;This module renders text close to a proper desktop publishing program like Adobe InDesign. That means I can position text correctly on screen for books, etc.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Gross&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 09 Apr 2015 22:38:38 +0000</pubDate>
+ <dc:creator>mimetic</dc:creator>
+ <guid isPermaLink="false">173 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

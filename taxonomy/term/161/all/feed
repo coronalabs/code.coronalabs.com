@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/161/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>widgets</title>
+    <link>https://code.coronalabs.com/taxonomy/term/161/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/161/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>dmc-corona-ui – advanced widgets for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/dmc-corona-ui-%E2%80%93-advanced-widgets-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DMC Corona UI is an advanced widget library for Corona and contains Widgets, Styles and Controls.&lt;/p&gt;
+&lt;p&gt;Many of the Widgets wrap other OpenGL or platform-native objects to make them behave more consistently. &lt;em&gt;All of the components are style/theme-aware.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Apr 2015 07:21:03 +0000</pubDate>
+ <dc:creator>dmccuskey</dc:creator>
+ <guid isPermaLink="false">178 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Date Picker Wheel Widget</title>
+    <link>https://code.coronalabs.com/code/date-picker-wheel-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Date Picker Wheel widget that actually adjusts for the different number of days in each months, and even accounts for leap years!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mdsandell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Mar 2015 04:37:11 +0000</pubDate>
+ <dc:creator>mark.sandell</dc:creator>
+ <guid isPermaLink="false">172 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>ScrollView v1.1 modified version</title>
+    <link>https://code.coronalabs.com/code/scrollview-v11-modified-version</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;vadiminc&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Nov 2014 18:23:04 +0000</pubDate>
+ <dc:creator>vadiminc</dc:creator>
+ <guid isPermaLink="false">142 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>SlideView 1.1</title>
+    <link>https://code.coronalabs.com/code/slideview-11</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Modified version of Corona SlideView.&lt;/p&gt;
+&lt;p&gt;You can add your external listener (callback) and add any display objects.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;vadiminc&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Nov 2014 14:09:28 +0000</pubDate>
+ <dc:creator>vadiminc</dc:creator>
+ <guid isPermaLink="false">140 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>widget.newPanel -- Simple method to slide in and out a menu or inventory panel.</title>
+    <link>https://code.coronalabs.com/code/widgetnewpanel-simple-method-slide-and-out-menu-or-inventory-panel</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sample code demonstrating extending the widget framework to create a panel. See: &lt;a href=&quot;http://coronalabs.com/blog/2014/04/08/widgets-creating-a-sliding-panel/&quot;&gt;http://coronalabs.com/blog/2014/04/08/widgets-creating-a-sliding-panel/&lt;/a&gt; for a tutorial on this project.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;coronarob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 09 Apr 2014 22:38:12 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">99 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

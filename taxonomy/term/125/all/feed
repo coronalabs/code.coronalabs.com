@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/125/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>library</title>
+    <link>https://code.coronalabs.com/taxonomy/term/125/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/125/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Sozluk - Localization Library</title>
+    <link>https://code.coronalabs.com/code/sozluk-localization-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sozluk(meaning &#039;dictionary&#039; in Turkish) is a localization library for Corona SDK (and probably LÖVE 2D).&lt;/p&gt;
+&lt;p&gt;Main difference of this library is that it uses Lua files to store localization data, instead of text or json files. This will let you easily update your games/apps over 50MB on Google Play without coping with patch files.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Serkan Aksit - bgmadclown&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Apr 2015 18:48:58 +0000</pubDate>
+ <dc:creator>bgmadclown</dc:creator>
+ <guid isPermaLink="false">174 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>BackSwipe Navigation for Composer</title>
+    <link>https://code.coronalabs.com/code/backswipe-navigation-composer</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;iOS 7 style back swipe navigation library with demonstration app. Includes a template scene file.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Sep 2014 09:01:21 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">134 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Table Lib Extension</title>
+    <link>https://code.coronalabs.com/code/table-lib-extension</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Lua table extensions used to improve and expand the table.* library in a simple manner.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Mar 2014 14:16:13 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">80 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

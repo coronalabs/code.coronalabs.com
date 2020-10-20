@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/8/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Data</title>
+    <link>https://code.coronalabs.com/taxonomy/term/8/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/8/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Lua Units</title>
+    <link>https://code.coronalabs.com/code/lua-units</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple, elegant, concise helper module that converts quantities between measurement units.&lt;br /&gt;
+For the moment only common distance units (metric + non-metric) are implemented, but the module can grow.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;silverthorax&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Nov 2015 23:03:09 +0000</pubDate>
+ <dc:creator>silverthorax</dc:creator>
+ <guid isPermaLink="false">192 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>copyDatabaseTo() - A function to install a writable, prepopulated database.</title>
+    <link>https://code.coronalabs.com/code/copydatabaseto-function-install-writable-prepopulated-database</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function will copy an SQLlite database (or any binary data file) from your app bundle and put it into a writable area like system.DocumentsDirectory.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 May 2015 05:14:29 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">182 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Live debug &amp; log data from end-users</title>
+    <link>https://code.coronalabs.com/code/live-debug-log-data-end-users</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you have a game released &amp;amp; live, sometimes it&#039;s difficult determining the cause of bugs that your end users have.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Turner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Mar 2015 19:07:20 +0000</pubDate>
+ <dc:creator>Suborbital</dc:creator>
+ <guid isPermaLink="false">165 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Saving To Cloudant DBaaS From Corona SDK</title>
+    <link>https://code.coronalabs.com/code/saving-cloudant-dbaas-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Saving to Cloudant DBaaS from Corona SDK&lt;br /&gt;
+&lt;a href=&quot;http://simon.fearby.com/blog/?p=2094&quot;&gt;http://simon.fearby.com/blog/?p=2094&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cloudant DBaaS 101&lt;br /&gt;
+&lt;a href=&quot;http://simon.fearby.com/blog/?p=2078&quot;&gt;http://simon.fearby.com/blog/?p=2078&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Simon Fearby&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 13:20:17 +0000</pubDate>
+ <dc:creator>FearTec</dc:creator>
+ <guid isPermaLink="false">161 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced TableView Tactics</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-tableview-tactics</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced TableView Tactics (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&quot;&gt;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:10:02 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">158 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>ORM for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/orm-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello everybody,&lt;br /&gt;
+A couple a months ago I started writing an ORM for Corona SDK projects, this is what I have reached so far, I hope some of you find it handy.&lt;/p&gt;
+&lt;p&gt;All the information of how to use it is in the Repo.&lt;/p&gt;
+&lt;p&gt;Update [10/12/2014]&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;gerard2p&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Dec 2014 17:18:43 +0000</pubDate>
+ <dc:creator>g2p</dc:creator>
+ <guid isPermaLink="false">146 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Image Downloader</title>
+    <link>https://code.coronalabs.com/code/corona-image-downloader</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Used for downloading image resources on device based on display.imageSuffix. Benefits: reduces APK / IPA size, reduces application&#039;s size on device, each device downloads images only for its own resolution.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Strmečki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 21 Sep 2014 10:05:34 +0000</pubDate>
+ <dc:creator>daniel.strmecki</dc:creator>
+ <guid isPermaLink="false">135 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sqlite wrapper</title>
+    <link>https://code.coronalabs.com/code/sqlite-wrapper</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQLite database interface wrapper.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;exiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 13 Aug 2014 02:25:02 +0000</pubDate>
+ <dc:creator>exiang83</dc:creator>
+ <guid isPermaLink="false">128 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>wordz.lua</title>
+    <link>https://code.coronalabs.com/code/wordzlua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Building a scrabble game, or any game where you need to check for correct words. Wordz.lua has over 100,000 words in its dictionary with character lengths from 2 - 28. There are functions to verify if the word is usable, to remove words from the list, and to limit the character count of words.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jstrahan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 19 Jun 2014 19:48:21 +0000</pubDate>
+ <dc:creator>jstrahan</dc:creator>
+ <guid isPermaLink="false">120 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>tableview with pull-down/refresh animation</title>
+    <link>https://code.coronalabs.com/code/tableview-pull-downrefresh-animation</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Tableview sample code with pull-down/refresh animation. Leverages code from Rob&#039;s tutorial (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&quot;&gt;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Praveen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 31 May 2014 05:14:27 +0000</pubDate>
+ <dc:creator>pspk</dc:creator>
+ <guid isPermaLink="false">115 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>IO Lib</title>
+    <link>https://code.coronalabs.com/code/io-lib</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Some functions to make reading and writing files a little easier. The premise is that a function which reads (returns the contents of a file) will also write if provided data to save.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 08:57:20 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">106 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Preference Library - Save data to Files ( tables, numbers, strings and boolean )</title>
+    <link>https://code.coronalabs.com/code/preference-library-save-data-files-tables-numbers-strings-and-boolean</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This small useful module can be used to store and retrieve values across different app sessions.&lt;br /&gt;
+A lot of people found it useful in &lt;a href=&quot;http://developer.coronalabs.com/code/save-data-files-tablesnumbersstringsboolean&quot;&gt;Code Exchange 1&lt;/a&gt;, so am reposting it here&lt;/p&gt;
+&lt;p&gt;You can save TABLES, NUMBERS, STRINGS or BOOLEANS.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;SatheeshJM&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 31 Mar 2014 07:45:57 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">96 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dbconfig</title>
+    <link>https://code.coronalabs.com/code/dbconfig</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A library class for saving data. It uses internally a fast sqlite database as a key-value store.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jeduancornejo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Mar 2014 18:53:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">90 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple grid system</title>
+    <link>https://code.coronalabs.com/code/simple-grid-system</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple grid to create columns in your Corona SDK project. Now its easier to create lay-outs that work on all devices and resolutions.&lt;/p&gt;
+&lt;p&gt;Preview: &lt;a href=&quot;https://www.dropbox.com/s/3c91f798ne27r2l/example.png&quot;&gt;https://www.dropbox.com/s/3c91f798ne27r2l/example.png&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Foxbyte&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Mar 2014 20:55:10 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">89 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

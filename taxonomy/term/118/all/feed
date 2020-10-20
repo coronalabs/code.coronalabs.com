@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/118/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>scroll</title>
+    <link>https://code.coronalabs.com/taxonomy/term/118/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/118/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Pinch zoom scroll touch</title>
+    <link>https://code.coronalabs.com/code/pinch-zoom-scroll-touch</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple code that allows multitouch and single touch on an image.&lt;br /&gt;
+In my project I added lots of assets on top of the image and put them all in a container. This allowed me move a chart (map) and overlay marks and routes and have them all zoom, pinch and scroll.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Conor O&amp;#039;Nolan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Jun 2015 07:00:09 +0000</pubDate>
+ <dc:creator>conor1</dc:creator>
+ <guid isPermaLink="false">183 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Springboard (horizontal page flip thingy from iOS)</title>
+    <link>https://code.coronalabs.com/code/springboard-horizontal-page-flip-thingy-ios</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a short and robust implementation of a springboard, using Corona&#039;s scrollView widget.&lt;br /&gt;
+It supports two kinds of touch events: a quick touch and flip, or a slow page drag and release.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wim Coosemans&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Nov 2014 19:25:08 +0000</pubDate>
+ <dc:creator>wim.coosemans</dc:creator>
+ <guid isPermaLink="false">141 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>EndlessScroller</title>
+    <link>https://code.coronalabs.com/code/endlessscroller</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Corona SDK example showing how to create and endless scroller type game.&lt;/p&gt;
+&lt;p&gt;See the video at: &lt;a href=&quot;http://youtu.be/UZjt6b4k7Io&quot;&gt;http://youtu.be/UZjt6b4k7Io&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;funkyvisions&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 21 Feb 2014 21:31:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">76 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

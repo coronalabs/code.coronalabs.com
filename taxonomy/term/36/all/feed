@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/36/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>networking</title>
+    <link>https://code.coronalabs.com/taxonomy/term/36/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/36/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Live debug &amp; log data from end-users</title>
+    <link>https://code.coronalabs.com/code/live-debug-log-data-end-users</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you have a game released &amp;amp; live, sometimes it&#039;s difficult determining the cause of bugs that your end users have.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Turner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Mar 2015 19:07:20 +0000</pubDate>
+ <dc:creator>Suborbital</dc:creator>
+ <guid isPermaLink="false">165 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Stripe-lua</title>
+    <link>https://code.coronalabs.com/code/stripe-lua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a simple module I created to help streamline network requests to Stripe&#039;s payment API. With this module, you can charge a card, create and manage customers, refund customers, and more. Hopefully, this will help make Corona a more pertinent business app platform.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Will Summerlin&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 18 Jul 2014 05:24:57 +0000</pubDate>
+ <dc:creator>techpulsesoftware</dc:creator>
+ <guid isPermaLink="false">124 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_websockets</title>
+    <link>https://code.coronalabs.com/code/dmcwebsockets</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_websockets&lt;/code&gt; is an implementation of WebSockets RFC6544 for the Corona SDK.&lt;/p&gt;
+&lt;p&gt;There are examples available at the github repo.&lt;/p&gt;
+&lt;p&gt;docs: &lt;a href=&quot;http://docs.davidmccuskey.com/display/docs/dmc_websockets.lua&quot;&gt;http://docs.davidmccuskey.com/display/docs/dmc_websockets.lua&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 May 2014 18:51:18 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">108 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_sockets – Buffered, non-blocking, event- or callback-based network library</title>
+    <link>https://code.coronalabs.com/code/dmcsockets-%E2%80%93-buffered-non-blocking-event-or-callback-based-network-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_sockets&lt;/code&gt; is a non-blocking socket library which uses events or callbacks to notify an application about network changes. It will automatically read all available data into a buffer and notify you when any new data has arrived.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 23:00:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">107 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RSS Parser</title>
+    <link>https://code.coronalabs.com/code/rss-parser</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Load RSS feeds into your app.  You can use network.request() to get the text of an RSS feed, pass it to this function and it will return a Lua table to you with each entry from the feed.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:06:07 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">55 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

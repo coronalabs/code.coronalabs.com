@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/56/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>debug</title>
+    <link>https://code.coronalabs.com/taxonomy/term/56/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/56/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Live debug &amp; log data from end-users</title>
+    <link>https://code.coronalabs.com/code/live-debug-log-data-end-users</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you have a game released &amp;amp; live, sometimes it&#039;s difficult determining the cause of bugs that your end users have.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Turner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Mar 2015 19:07:20 +0000</pubDate>
+ <dc:creator>Suborbital</dc:creator>
+ <guid isPermaLink="false">165 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>On-device Debug Print Console</title>
+    <link>https://code.coronalabs.com/code/device-debug-print-console</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Needing a more elegant console solution for on-device debugging I have built this library which is easily added to a project and will display a debug console on device shake. Many customisation options are available such as:&lt;br /&gt;
+background colour&lt;br /&gt;
+font size&lt;br /&gt;
+console width&lt;br /&gt;
+line buffer length&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 13 Dec 2014 17:47:59 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">147 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Table printing function </title>
+    <link>https://code.coronalabs.com/code/table-printing-function</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Lua based table printing function called print_r, named after the PHP function for the same task.  This was in the original Corona Community Code exchange by user:  OderWat,&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;robmiracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 01 Sep 2014 00:53:43 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">132 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Advanced Logging</title>
+    <link>https://code.coronalabs.com/code/corona-advanced-logging</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Used for error handling and logging events to console and a set of rolling text log files.&lt;br /&gt;
+- Use it instead of print in your Corona project&lt;br /&gt;
+- Your messages will be printed in console but also logged in text files&lt;br /&gt;
+- A set of rolling text files is used so you can retrace the steps that lead to a bug&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Strmečki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Aug 2014 16:48:51 +0000</pubDate>
+ <dc:creator>daniel.strmecki</dc:creator>
+ <guid isPermaLink="false">126 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>EventConsole 1.2</title>
+    <link>https://code.coronalabs.com/code/eventconsole-12</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a handy library for on-device testing. It creates a small button at the top of the screen that, when touched, will show you debug information that you&#039;ve printed to the object.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;marble68&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:36:17 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">52 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

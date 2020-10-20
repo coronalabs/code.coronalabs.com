@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/14/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Network</title>
+    <link>https://code.coronalabs.com/taxonomy/term/14/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/14/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Live debug &amp; log data from end-users</title>
+    <link>https://code.coronalabs.com/code/live-debug-log-data-end-users</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you have a game released &amp;amp; live, sometimes it&#039;s difficult determining the cause of bugs that your end users have.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Turner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Mar 2015 19:07:20 +0000</pubDate>
+ <dc:creator>Suborbital</dc:creator>
+ <guid isPermaLink="false">165 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Uploading Files Demystified</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-uploading-files-demystified</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Uploading Files Demystified (&lt;a href=&quot;http://coronalabs.com/blog/2014/02/25/tutorial-uploading-files-demystified/&quot;&gt;http://coronalabs.com/blog/2014/02/25/tutorial-uploading-files-demystified/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:56:37 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">157 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Stripe-lua</title>
+    <link>https://code.coronalabs.com/code/stripe-lua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a simple module I created to help streamline network requests to Stripe&#039;s payment API. With this module, you can charge a card, create and manage customers, refund customers, and more. Hopefully, this will help make Corona a more pertinent business app platform.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Will Summerlin&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 18 Jul 2014 05:24:57 +0000</pubDate>
+ <dc:creator>techpulsesoftware</dc:creator>
+ <guid isPermaLink="false">124 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Dropbox REST API module for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/dropbox-rest-api-module-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This gist includes two files: 1) dropboxModule.lua which allows your code to connect Dropbox and allows your user to authorize access for your app.  It is based on oAuth 1.0.   2) download.lua is an example of how your code should call the functions in dropboxModule.lua&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michael Weingarden&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 24 May 2014 23:18:05 +0000</pubDate>
+ <dc:creator>michael714</dc:creator>
+ <guid isPermaLink="false">113 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_websockets</title>
+    <link>https://code.coronalabs.com/code/dmcwebsockets</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_websockets&lt;/code&gt; is an implementation of WebSockets RFC6544 for the Corona SDK.&lt;/p&gt;
+&lt;p&gt;There are examples available at the github repo.&lt;/p&gt;
+&lt;p&gt;docs: &lt;a href=&quot;http://docs.davidmccuskey.com/display/docs/dmc_websockets.lua&quot;&gt;http://docs.davidmccuskey.com/display/docs/dmc_websockets.lua&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 May 2014 18:51:18 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">108 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_sockets – Buffered, non-blocking, event- or callback-based network library</title>
+    <link>https://code.coronalabs.com/code/dmcsockets-%E2%80%93-buffered-non-blocking-event-or-callback-based-network-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_sockets&lt;/code&gt; is a non-blocking socket library which uses events or callbacks to notify an application about network changes. It will automatically read all available data into a buffer and notify you when any new data has arrived.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 23:00:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">107 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Connection checker</title>
+    <link>https://code.coronalabs.com/code/connection-checker</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple connectivity checker.&lt;br /&gt;
+Example of use:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;local connection = require(&quot;connection&quot;)
+connection.test(function (isAvaliable)
+    if isAvailable then
+       print(&quot;Connection available!&quot;)
+    else
+        print(&quot;No connection :(&quot;)
+    end
+end)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ProGM&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 26 Mar 2014 15:30:06 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">95 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RESTful APIs</title>
+    <link>https://code.coronalabs.com/code/restful-apis</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;Abstract RESTful API class&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Rest.lua&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Easy to implement.&lt;/p&gt;
+&lt;h3&gt;API description in LUA table&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;api_XXX.lua&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;currently support:&lt;br /&gt;
+- &lt;a href=&quot;//www.kinvey.com/)&quot;&gt;Kinvey&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ShieldaX&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Feb 2014 15:13:42 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">72 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Multiplayer for CoronaSDK</title>
+    <link>https://code.coronalabs.com/code/multiplayer-coronasdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OpenSource multiplayer and network messaging for CoronaSDK, Moai, Gideros &amp;amp; LÖVE&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Overtorment&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Jan 2014 16:07:01 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">62 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Dropbox</title>
+    <link>https://code.coronalabs.com/code/dropbox</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Module to add Dropbox integration to your Corona project.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;F. E. Torkel&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jan 2014 04:43:52 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">61 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>AutoLAN</title>
+    <link>https://code.coronalabs.com/code/autolan</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;AutoLAN is now free for everyone to use and learn from! If you want to get started in local networking here is the place to start!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;M.Y. Developers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:13:06 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">57 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RSS Parser</title>
+    <link>https://code.coronalabs.com/code/rss-parser</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Load RSS feeds into your app.  You can use network.request() to get the text of an RSS feed, pass it to this function and it will return a Lua table to you with each entry from the feed.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:06:07 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">55 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/code" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>All Contributed Code</title>
+    <link>https://code.coronalabs.com/code</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/code/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>App Icon Generator</title>
+    <link>https://code.coronalabs.com/code/app-icon-generator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This program is written in LUA and runs in Corona SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mythinkhouse&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 May 2017 03:03:08 +0000</pubDate>
+ <dc:creator>mythinkhouse</dc:creator>
+ <guid isPermaLink="false">206 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Controller: Multiple Joysticks and Buttons</title>
+    <link>https://code.coronalabs.com/code/virtual-controller-multiple-joysticks-and-buttons</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple controller you can use to add multiple joysticks and buttons on screen. Very modifiable.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Trevor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Apr 2017 01:42:51 +0000</pubDate>
+ <dc:creator>trevornmarshall</dc:creator>
+ <guid isPermaLink="false">205 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Scrollview with draggable item adding</title>
+    <link>https://code.coronalabs.com/code/scrollview-draggable-item-adding</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This library adds a new type of scrollview widget to the widget.* library under the name widget.newDragItemsScrollView().&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;horacebury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 31 Dec 2016 08:44:31 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">204 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tiled Map Editor selector utility library</title>
+    <link>https://code.coronalabs.com/code/tiled-map-editor-selector-utility-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Utility which loads Tiled map (exported to lua format) and provides selector methods for certain elements.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michał Rzeszut&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 03 Aug 2016 20:55:48 +0000</pubDate>
+ <dc:creator>rzeszut.michal</dc:creator>
+ <guid isPermaLink="false">203 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple AI for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/simple-ai-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Simple artificial intelligence for Corona SDK&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;easy connect to the project&lt;/li&gt;
+&lt;li&gt;light, fast and easy in use&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;enbahtov&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Jul 2016 04:23:38 +0000</pubDate>
+ <dc:creator>enbahtov</dc:creator>
+ <guid isPermaLink="false">202 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>mui (Material UI for business apps)</title>
+    <link>https://code.coronalabs.com/code/mui-material-ui-business-apps</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Material-ui (MUI) is a loosely based Material UI module for Corona Labs SDK. It is written in Lua using the free edition of the SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Paul Cardwell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Jun 2016 03:43:06 +0000</pubDate>
+ <dc:creator>paul.cardwell</dc:creator>
+ <guid isPermaLink="false">201 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>layout.lua - Device independent layout manager</title>
+    <link>https://code.coronalabs.com/code/layoutlua-device-independent-layout-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The layout manager makes it easy to create &lt;em&gt;regions&lt;/em&gt;, rectangular areas defined relative to the screen, the stage (which may or ma&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ron&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jun 2016 22:26:47 +0000</pubDate>
+ <dc:creator>ron5</dc:creator>
+ <guid isPermaLink="false">200 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>starfield</title>
+    <link>https://code.coronalabs.com/code/starfield</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Generate a simple starfield&lt;/p&gt;
+&lt;p&gt;Playground link:  &lt;a href=&quot;https://goo.gl/imfoYr&quot;&gt;https://goo.gl/imfoYr&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mitchell3&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 22 May 2016 11:58:47 +0000</pubDate>
+ <dc:creator>mitchell3</dc:creator>
+ <guid isPermaLink="false">199 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Point - A 2D Math Library.  Simplifies vector math.</title>
+    <link>https://code.coronalabs.com/code/point-2d-math-library-simplifies-vector-math</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2d Math Library for Corona SDK / Lua&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tameem Hamoui&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 May 2016 05:33:43 +0000</pubDate>
+ <dc:creator>tameem50</dc:creator>
+ <guid isPermaLink="false">198 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Save User preferences</title>
+    <link>https://code.coronalabs.com/code/save-user-preferences</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Anil&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 16 May 2016 18:05:49 +0000</pubDate>
+ <dc:creator>anilsingh.singh09</dc:creator>
+ <guid isPermaLink="false">197 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Display Object Color Transition</title>
+    <link>https://code.coronalabs.com/code/display-object-color-transition</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;transition.to doesn&#039;t seem to support color transitions.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;danielr0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Apr 2016 04:18:51 +0000</pubDate>
+ <dc:creator>danielr0</dc:creator>
+ <guid isPermaLink="false">196 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Logicka</title>
+    <link>https://code.coronalabs.com/code/logicka</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A game that give you a first contact with Programming Logical aspects.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Luborges&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Feb 2016 17:52:08 +0000</pubDate>
+ <dc:creator>lucas.s.m.b</dc:creator>
+ <guid isPermaLink="false">195 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona SDK Color Converter</title>
+    <link>https://code.coronalabs.com/code/corona-sdk-color-converter</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Converts your hex (html-format) or RGB values into Corona-compatible format (numbers from 0 to 1).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;SpyceR&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 16 Jan 2016 00:18:01 +0000</pubDate>
+ <dc:creator>Spycer</dc:creator>
+ <guid isPermaLink="false">194 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Turn off auto correction on native.newTextBox</title>
+    <link>https://code.coronalabs.com/code/turn-auto-correction-nativenewtextbox</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This piece of code extends the native.newTextBox so it is possible to turn off the in some cases annoying auto-correction feature.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Nov 2015 07:56:39 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">193 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Lua Units</title>
+    <link>https://code.coronalabs.com/code/lua-units</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple, elegant, concise helper module that converts quantities between measurement units.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;silverthorax&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Nov 2015 23:03:09 +0000</pubDate>
+ <dc:creator>silverthorax</dc:creator>
+ <guid isPermaLink="false">192 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Circle or ring segment library function.</title>
+    <link>https://code.coronalabs.com/code/circle-or-ring-segment-library-function</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create a filled or unfilled circle or ring and move the output polygon by the circle centre not the polygon centre.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Nov 2015 09:08:55 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">190 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Retrieve named colors (Hex) and convert to RGB</title>
+    <link>https://code.coronalabs.com/code/retrieve-named-colors-hex-and-convert-rgb</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple helper I wrote so I could reference the same colours throughout my app more easily.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;moollaza&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 17 Oct 2015 02:31:32 +0000</pubDate>
+ <dc:creator>uncovr</dc:creator>
+ <guid isPermaLink="false">189 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Pasteboard copy/paste string for Mac OSX builds</title>
+    <link>https://code.coronalabs.com/code/pasteboard-copypaste-string-mac-osx-builds</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Copy/paste string to pasteboard for Mac OS X builds.&lt;br /&gt;
+Images not supported.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 Sep 2015 08:13:28 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">188 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Joystick Module with SpriteSheet Example</title>
+    <link>https://code.coronalabs.com/code/virtual-joystick-module-spritesheet-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello Guys, Send for all, Virtual Joystick module with player sprite working perfect.&lt;/p&gt;
+&lt;p&gt;Sorry for my english, i am brazilian.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;William Coelho&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Sep 2015 00:53:32 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">187 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tranzition Library [Frame by frame transition &amp; rotation]</title>
+    <link>https://code.coronalabs.com/code/tranzition-library-frame-frame-transition-rotation</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniele Molinari&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Aug 2015 19:57:55 +0000</pubDate>
+ <dc:creator>danielmiller0695</dc:creator>
+ <guid isPermaLink="false">186 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Outlined Text via Snapshots</title>
+    <link>https://code.coronalabs.com/code/outlined-text-snapshots</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Uses snapshots and text objects to make outlined text in the Corona SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ponywolf&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Aug 2015 19:17:17 +0000</pubDate>
+ <dc:creator>ponywolf</dc:creator>
+ <guid isPermaLink="false">185 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fibonacci clock</title>
+    <link>https://code.coronalabs.com/code/fibonacci-clock</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Graphical representation utilizing the Fibonacci sequence to tell the time.&lt;br /&gt;
+Clock video demo :&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;shayde&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 31 Jul 2015 00:02:13 +0000</pubDate>
+ <dc:creator>shaydebarra</dc:creator>
+ <guid isPermaLink="false">184 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Pinch zoom scroll touch</title>
+    <link>https://code.coronalabs.com/code/pinch-zoom-scroll-touch</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple code that allows multitouch and single touch on an image.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Conor O&#039;Nolan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 17 Jun 2015 07:00:09 +0000</pubDate>
+ <dc:creator>conor1</dc:creator>
+ <guid isPermaLink="false">183 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>copyDatabaseTo() - A function to install a writable, prepopulated database.</title>
+    <link>https://code.coronalabs.com/code/copydatabaseto-function-install-writable-prepopulated-database</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function will copy an SQLlite database (or any binary data file) from your app bundle and put it into a writable area like system.Do&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 May 2015 05:14:29 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">182 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Transition Matrix</title>
+    <link>https://code.coronalabs.com/code/color-transition-matrix</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function returns a matrix of RGB values that allow you to gradually change from one color to another using a single index, like the &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tanner Gower&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 May 2015 03:23:28 +0000</pubDate>
+ <dc:creator>triggdev</dc:creator>
+ <guid isPermaLink="false">181 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sliced Images</title>
+    <link>https://code.coronalabs.com/code/sliced-images</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Have you ever wondered how to create 9-sliced images using Corona?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PhoerLevine&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 01 May 2015 20:44:40 +0000</pubDate>
+ <dc:creator>PhoerLevine</dc:creator>
+ <guid isPermaLink="false">180 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Create a drop shadow</title>
+    <link>https://code.coronalabs.com/code/create-drop-shadow</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create a drop shadow without the use of snapshot without the use of snapshot.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Apr 2015 05:34:31 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">179 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc-corona-ui – advanced widgets for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/dmc-corona-ui-%E2%80%93-advanced-widgets-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DMC Corona UI is an advanced widget library for Corona and contains Widgets, Styles and Controls.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Apr 2015 07:21:03 +0000</pubDate>
+ <dc:creator>dmccuskey</dc:creator>
+ <guid isPermaLink="false">178 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Auto slideshow from folder</title>
+    <link>https://code.coronalabs.com/code/auto-slideshow-folder</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;@@ Currently working on Corona Simulator, XCode Simulator and IOS build This is a module I initially made because I often end up making a&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Hendrix000007&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Apr 2015 22:23:11 +0000</pubDate>
+ <dc:creator>Hendrix000007</dc:creator>
+ <guid isPermaLink="false">177 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Flood fill</title>
+    <link>https://code.coronalabs.com/code/flood-fill</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Flood fill a display object with a Gfx2.0 gradient fill.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Apr 2015 11:28:18 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">176 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fill a Vertical Progress Indicator</title>
+    <link>https://code.coronalabs.com/code/fill-vertical-progress-indicator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to place a vertical progress indicator in your code here is how to do it!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Arthur A. Roberts&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 Apr 2015 11:47:33 +0000</pubDate>
+ <dc:creator>aaroberts</dc:creator>
+ <guid isPermaLink="false">175 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sozluk - Localization Library</title>
+    <link>https://code.coronalabs.com/code/sozluk-localization-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sozluk(meaning &#039;dictionary&#039; in Turkish) is a localization library for Corona SDK (and probably LÖVE 2D).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Serkan Aksit - bgmadclown&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Apr 2015 18:48:58 +0000</pubDate>
+ <dc:creator>bgmadclown</dc:creator>
+ <guid isPermaLink="false">174 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Textrender</title>
+    <link>https://code.coronalabs.com/code/corona-textrender</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Gross&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 09 Apr 2015 22:38:38 +0000</pubDate>
+ <dc:creator>mimetic</dc:creator>
+ <guid isPermaLink="false">173 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Date Picker Wheel Widget</title>
+    <link>https://code.coronalabs.com/code/date-picker-wheel-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Date Picker Wheel widget that actually adjusts for the different number of days in each months, and even accounts for leap years!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mdsandell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Mar 2015 04:37:11 +0000</pubDate>
+ <dc:creator>mark.sandell</dc:creator>
+ <guid isPermaLink="false">172 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Starter Template</title>
+    <link>https://code.coronalabs.com/code/starter-template</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is an empty project template for Corona SDK starters, explaining some of the basic concepts and providing an example project organiz&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Serkan Aksit - bgmadclown&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Mar 2015 23:26:18 +0000</pubDate>
+ <dc:creator>bgmadclown</dc:creator>
+ <guid isPermaLink="false">171 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Planet Shader</title>
+    <link>https://code.coronalabs.com/code/planet-shader</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Corona planet shader v0.1&lt;/h1&gt;
+
+&lt;p&gt;Teaser image - &lt;a href=&quot;http://i.imgur.com/LiQ5ROE.png&quot;&gt;http://i.imgur.com/LiQ5ROE.png&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Vlad S.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Mar 2015 02:20:39 +0000</pubDate>
+ <dc:creator>Shchvova</dc:creator>
+ <guid isPermaLink="false">170 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Heat haze shader</title>
+    <link>https://code.coronalabs.com/code/heat-haze-shader</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A shader that waves back and forth.&lt;/p&gt;
+&lt;p&gt;Add an image of your choice called &quot;Image1.jpg&quot; to test.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Star Crunch&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 21 Mar 2015 00:51:40 +0000</pubDate>
+ <dc:creator>StarCrunch</dc:creator>
+ <guid isPermaLink="false">169 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simplex noise-based shader</title>
+    <link>https://code.coronalabs.com/code/simplex-noise-based-shader</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a sample generator shader, using 2D simplex noise (as implemented &lt;a href=&quot;https://github.com/ashima/webgl-noise&quot;&gt;here&lt;/a&gt;, with &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Star Crunch&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 19 Mar 2015 19:08:49 +0000</pubDate>
+ <dc:creator>StarCrunch</dc:creator>
+ <guid isPermaLink="false">168 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Snapshot Fixes</title>
+    <link>https://code.coronalabs.com/code/snapshot-fixes</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Snapshot Fixes&lt;/h1&gt;
+&lt;p&gt;Drop-in fixes for 2 corona snapshot issues.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jeremy™&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Mar 2015 11:22:13 +0000</pubDate>
+ <dc:creator>jeremytm</dc:creator>
+ <guid isPermaLink="false">167 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Infinite Timer Loop</title>
+    <link>https://code.coronalabs.com/code/infinite-timer-loop</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to animate different objects throughout the game with proper time interval of time, you can use this code.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;akshadaS&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 13 Mar 2015 12:30:40 +0000</pubDate>
+ <dc:creator>akshada.sapre</dc:creator>
+ <guid isPermaLink="false">166 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Live debug &amp; log data from end-users</title>
+    <link>https://code.coronalabs.com/code/live-debug-log-data-end-users</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you have a game released &amp;amp; live, sometimes it&#039;s difficult determining the cause of bugs that your end users have.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mike Turner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Mar 2015 19:07:20 +0000</pubDate>
+ <dc:creator>Suborbital</dc:creator>
+ <guid isPermaLink="false">165 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Infinite Transition Loop sample</title>
+    <link>https://code.coronalabs.com/code/infinite-transition-loop-sample</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Evandro Costa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 20 Feb 2015 22:51:48 +0000</pubDate>
+ <dc:creator>Evandro Costa</dc:creator>
+ <guid isPermaLink="false">164 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>1 Button with two functions</title>
+    <link>https://code.coronalabs.com/code/1-button-two-functions</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Well, there is a time ago was looking for a function that uses one button with two functions, and saw the people looking for it.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dantes2023&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Feb 2015 01:33:33 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">163 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>SharePlugin - MMS, Airdrop, Airprint, Instagram and more.</title>
+    <link>https://code.coronalabs.com/code/shareplugin-mms-airdrop-airprint-instagram-and-more</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Native plugin for the iOS7 style modal share action with image, text and url (for Airdrop, MMS, Mail, Air print, Twitter, Facebook etc.) &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 04 Feb 2015 20:49:28 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">162 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Saving To Cloudant DBaaS From Corona SDK</title>
+    <link>https://code.coronalabs.com/code/saving-cloudant-dbaas-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Saving to Cloudant DBaaS from Corona SDK&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Simon Fearby&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 13:20:17 +0000</pubDate>
+ <dc:creator>FearTec</dc:creator>
+ <guid isPermaLink="false">161 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple Accelerometer Data Conversion to Degrees</title>
+    <link>https://code.coronalabs.com/code/simple-accelerometer-data-conversion-degrees</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Here is a handy lua Corona Labs code chunk to convert xyz accelerometer data to degrees.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Simon Fearby&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 12:53:19 +0000</pubDate>
+ <dc:creator>FearTec</dc:creator>
+ <guid isPermaLink="false">160 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced Random Numbers</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-random-numbers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced Random Numbers (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/11/tutorial-advanced-random-numbers/&quot;&gt;http://cor&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:14:16 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">159 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced TableView Tactics</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-tableview-tactics</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced TableView Tactics (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&quot;&gt;http&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:10:02 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">158 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Uploading Files Demystified</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-uploading-files-demystified</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Uploading Files Demystified (&lt;a href=&quot;http://coronalabs.com/blog/2014/02/25/tutorial-uploading-files-demystified/&quot;&gt;ht&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:56:37 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">157 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Methods for Positioning Text</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-methods-positioning-text</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Methods for Positioning Text (&lt;a href=&quot;http://coronalabs.com/blog/2014/02/11/tutorial-methods-for-positioning-text/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:50:34 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">156 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code From: Tutorial: Continuous Actions in Corona</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-continuous-actions-corona</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code From: Tutorial: Continuous Actions in Corona &lt;a href=&quot;http://coronalabs.com/blog/2014/02/04/tutorial-continuous-actions-in-corona/&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:29:44 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">155 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tutorial: Getting Facebook Friends (the Easy Way)</title>
+    <link>https://code.coronalabs.com/code/tutorial-getting-facebook-friends-easy-way</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code for the Tutorial: Getting Facebook Friends (the Easy Way)&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 02:05:46 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">154 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tutorial: Moving Objects Along a Path</title>
+    <link>https://code.coronalabs.com/code/tutorial-moving-objects-along-path</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Project for the Moving Objects Along a Path tutorial at: &lt;a href=&quot;http://coronalabs.com/blog/2014/01/07/tutorial-moving-objects-along-a-p&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 01:59:55 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">153 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Spring Animation Curve Easing</title>
+    <link>https://code.coronalabs.com/code/spring-animation-curve-easing</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A drop-in replacement easing curve for transition.to animations, based on a damped spring.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Kyle Coburn&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 24 Jan 2015 10:21:42 +0000</pubDate>
+ <dc:creator>Kyle Coburn</dc:creator>
+ <guid isPermaLink="false">152 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>CoronaCards WP8 IAPguide</title>
+    <link>https://code.coronalabs.com/code/coronacards-wp8-iapguide</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;CoronaCardsWP8_IAPguide&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;olomorolo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Jan 2015 18:13:41 +0000</pubDate>
+ <dc:creator>matt47</dc:creator>
+ <guid isPermaLink="false">151 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Layout helpers</title>
+    <link>https://code.coronalabs.com/code/layout-helpers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;These are a couple modules I&#039;ve put together to deal with some of my layout needs.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Star Crunch&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 10 Jan 2015 06:34:13 +0000</pubDate>
+ <dc:creator>StarCrunch</dc:creator>
+ <guid isPermaLink="false">150 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>MorphingLabel</title>
+    <link>https://code.coronalabs.com/code/morphinglabel</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;MorphingLabel is a simple module to easily allow you to animate changing a label&#039;s text.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Kyle Coburn&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 03 Jan 2015 02:03:33 +0000</pubDate>
+ <dc:creator>Kyle Coburn</dc:creator>
+ <guid isPermaLink="false">149 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Realtime Blur</title>
+    <link>https://code.coronalabs.com/code/realtime-blur</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Two realtime blur effect modules. These modules &lt;strong&gt;&lt;em&gt;simulates&lt;/em&gt;&lt;/strong&gt; a blur effect. The effect is not pixel based.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;René Aye&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 28 Dec 2014 13:54:48 +0000</pubDate>
+ <dc:creator>DevilSquid – René</dc:creator>
+ <guid isPermaLink="false">148 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>On-device Debug Print Console</title>
+    <link>https://code.coronalabs.com/code/device-debug-print-console</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Needing a more elegant console solution for on-device debugging I have built this library which is easily added to a project and will dis&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 13 Dec 2014 17:47:59 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">147 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>ORM for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/orm-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello everybody,&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;gerard2p&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Dec 2014 17:18:43 +0000</pubDate>
+ <dc:creator>g2p</dc:creator>
+ <guid isPermaLink="false">146 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Cool Code but i&#039;m not sure for what!</title>
+    <link>https://code.coronalabs.com/code/cool-code-im-not-sure-what</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;it just came to mind, just try it, the outcome looks cool, but not sure for what it can be used for :-)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 06 Dec 2014 23:35:32 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">145 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Turn Based Gameplay Example</title>
+    <link>https://code.coronalabs.com/code/turn-based-gameplay-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I just started a new project and thought this kind of code may be helpful for people trying to learn.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Garrett Savo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 05 Dec 2014 13:35:34 +0000</pubDate>
+ <dc:creator>Garrettsavo</dc:creator>
+ <guid isPermaLink="false">144 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Mod</title>
+    <link>https://code.coronalabs.com/code/color-mod</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A color module for Corona SDK. This module helps you call color percentage values for use with Corona&#039;s Graphic 2.0.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Aaron Rackley&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 29 Nov 2014 14:51:06 +0000</pubDate>
+ <dc:creator>aaron.rackley9</dc:creator>
+ <guid isPermaLink="false">143 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>ScrollView v1.1 modified version</title>
+    <link>https://code.coronalabs.com/code/scrollview-v11-modified-version</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;vadiminc&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Nov 2014 18:23:04 +0000</pubDate>
+ <dc:creator>vadiminc</dc:creator>
+ <guid isPermaLink="false">142 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Springboard (horizontal page flip thingy from iOS)</title>
+    <link>https://code.coronalabs.com/code/springboard-horizontal-page-flip-thingy-ios</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a short and robust implementation of a springboard, using Corona&#039;s scrollView widget.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wim Coosemans&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Nov 2014 19:25:08 +0000</pubDate>
+ <dc:creator>wim.coosemans</dc:creator>
+ <guid isPermaLink="false">141 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>SlideView 1.1</title>
+    <link>https://code.coronalabs.com/code/slideview-11</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Modified version of Corona SlideView.&lt;/p&gt;
+&lt;p&gt;You can add your external listener (callback) and add any display objects.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;vadiminc&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Nov 2014 14:09:28 +0000</pubDate>
+ <dc:creator>vadiminc</dc:creator>
+ <guid isPermaLink="false">140 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simulate Space in less than 30 lines of Code</title>
+    <link>https://code.coronalabs.com/code/simulate-space-less-30-lines-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;it will give you a feeling of a spaceship moving in space&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 06:13:43 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">139 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Only Ten to hundred lines of code to make a very small paint game for kids In a smart way</title>
+    <link>https://code.coronalabs.com/code/only-ten-hundred-lines-code-make-very-small-paint-game-kids-smart-way</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;i think the idea is cool&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 05:51:59 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">138 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple Joystick</title>
+    <link>https://code.coronalabs.com/code/simple-joystick</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple Lua/Corona module for an on-screen joystick.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jbp1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 08 Oct 2014 17:04:49 +0000</pubDate>
+ <dc:creator>jbp1</dc:creator>
+ <guid isPermaLink="false">136 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Image Downloader</title>
+    <link>https://code.coronalabs.com/code/corona-image-downloader</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Used for downloading image resources on device based on display.imageSuffix.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Strmečki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 21 Sep 2014 10:05:34 +0000</pubDate>
+ <dc:creator>daniel.strmecki</dc:creator>
+ <guid isPermaLink="false">135 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>BackSwipe Navigation for Composer</title>
+    <link>https://code.coronalabs.com/code/backswipe-navigation-composer</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;iOS 7 style back swipe navigation library with demonstration app. Includes a template scene file.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 09 Sep 2014 09:01:21 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">134 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>JSON Resource Loader/Manager</title>
+    <link>https://code.coronalabs.com/code/json-resource-loadermanager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;See professorcook.org/lua/json.zip for a demo project.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;bobcgausa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Sep 2014 22:25:46 +0000</pubDate>
+ <dc:creator>bobcook47</dc:creator>
+ <guid isPermaLink="false">133 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Table printing function </title>
+    <link>https://code.coronalabs.com/code/table-printing-function</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Lua based table printing function called print_r, named after the PHP function for the same task.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;robmiracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 01 Sep 2014 00:53:43 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">132 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Animo export template for Corona graphics 2.0</title>
+    <link>https://code.coronalabs.com/code/animo-export-template-corona-graphics-20</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A template to be used with Animo (Spriteloq) to export Flash assets for Corona with graphics 2.0.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Elliot Pace&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 27 Aug 2014 23:15:50 +0000</pubDate>
+ <dc:creator>elliotlp</dc:creator>
+ <guid isPermaLink="false">131 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Object moving along a Bezier curve example</title>
+    <link>https://code.coronalabs.com/code/object-moving-along-bezier-curve-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello, I am Brazilian, so any errors in the writing, I apologize.&lt;/p&gt;
+&lt;p&gt;First Understood the Beziel Curve Proprierties&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;William&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 25 Aug 2014 21:55:11 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">130 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Google Analytics Module</title>
+    <link>https://code.coronalabs.com/code/google-analytics-module</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Some of the things you can track with this module: events, scenes, sessions, purchases, timings, social events and errors.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jon Jonsson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 24 Aug 2014 07:57:33 +0000</pubDate>
+ <dc:creator>jonjonsson</dc:creator>
+ <guid isPermaLink="false">129 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sqlite wrapper</title>
+    <link>https://code.coronalabs.com/code/sqlite-wrapper</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SQLite database interface wrapper.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;exiang&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 13 Aug 2014 02:25:02 +0000</pubDate>
+ <dc:creator>exiang83</dc:creator>
+ <guid isPermaLink="false">128 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Arcs and Ellipses</title>
+    <link>https://code.coronalabs.com/code/arcs-and-ellipses</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ellipse class with intersection testing and a vertices functions that returns points for any arc on the circumference of a circle or elli&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;bobcook47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Aug 2014 23:02:55 +0000</pubDate>
+ <dc:creator>bobcook47</dc:creator>
+ <guid isPermaLink="false">127 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Advanced Logging</title>
+    <link>https://code.coronalabs.com/code/corona-advanced-logging</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Used for error handling and logging events to console and a set of rolling text log files.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Strmečki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Aug 2014 16:48:51 +0000</pubDate>
+ <dc:creator>daniel.strmecki</dc:creator>
+ <guid isPermaLink="false">126 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>TexturePacker Multipack Manager</title>
+    <link>https://code.coronalabs.com/code/texturepacker-multipack-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;TexturePacker&#039;s multipack option created loads of files?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Personalnadir&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 29 Jul 2014 15:31:08 +0000</pubDate>
+ <dc:creator>tap32</dc:creator>
+ <guid isPermaLink="false">125 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Stripe-lua</title>
+    <link>https://code.coronalabs.com/code/stripe-lua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a simple module I created to help streamline network requests to Stripe&#039;s payment API.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Will Summerlin&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 18 Jul 2014 05:24:57 +0000</pubDate>
+ <dc:creator>techpulsesoftware</dc:creator>
+ <guid isPermaLink="false">124 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Executive Object Manager</title>
+    <link>https://code.coronalabs.com/code/executive-object-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An Executive is basically an object collection, with proper constructors and destructors.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PaulScottRobson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Jul 2014 17:06:35 +0000</pubDate>
+ <dc:creator>paulscottrobson</dc:creator>
+ <guid isPermaLink="false">123 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Drawing App For Corona</title>
+    <link>https://code.coronalabs.com/code/drawing-app-corona</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I Work at NuOffer.com we work with documents, and this documents have signature.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Paulo Peres Jr&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Jun 2014 18:52:26 +0000</pubDate>
+ <dc:creator>R4T40</dc:creator>
+ <guid isPermaLink="false">122 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona sdk Starter template</title>
+    <link>https://code.coronalabs.com/code/corona-sdk-starter-template</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Basic corona SDK starter template to start your project!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Iglugo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Jun 2014 20:39:20 +0000</pubDate>
+ <dc:creator>petiflas</dc:creator>
+ <guid isPermaLink="false">121 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>wordz.lua</title>
+    <link>https://code.coronalabs.com/code/wordzlua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Building a scrabble game, or any game where you need to check for correct words.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jstrahan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 19 Jun 2014 19:48:21 +0000</pubDate>
+ <dc:creator>jstrahan</dc:creator>
+ <guid isPermaLink="false">120 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Template for Texturepacker</title>
+    <link>https://code.coronalabs.com/code/template-texturepacker</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Custom texturepacker filter that uses the physical folder names for the sprites to add sequence data to the normal corona image sheet exp&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PeterD&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Jun 2014 15:17:21 +0000</pubDate>
+ <dc:creator>penhalion0</dc:creator>
+ <guid isPermaLink="false">119 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Icon Creator</title>
+    <link>https://code.coronalabs.com/code/icon-creator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A lua program (CLI, not Corona) that produces the umpteen different sized fonts required from a single SVG, thus avoiding bitmap scaling &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PaulScottRobson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Jun 2014 09:34:44 +0000</pubDate>
+ <dc:creator>paulscottrobson</dc:creator>
+ <guid isPermaLink="false">118 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>OOP Based Scene Manager</title>
+    <link>https://code.coronalabs.com/code/oop-based-scene-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Composer/Storyboard if you like doing things with classes rather than files.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PaulScottRobson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Jun 2014 09:32:20 +0000</pubDate>
+ <dc:creator>paulscottrobson</dc:creator>
+ <guid isPermaLink="false">117 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Bitmap Font Library</title>
+    <link>https://code.coronalabs.com/code/bitmap-font-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Animate, draw, do pretty much anything with Bitmapped Fonts produced by programs like GlyphDesigner&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PaulScottRobson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Jun 2014 09:30:46 +0000</pubDate>
+ <dc:creator>paulscottrobson</dc:creator>
+ <guid isPermaLink="false">116 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>tableview with pull-down/refresh animation</title>
+    <link>https://code.coronalabs.com/code/tableview-pull-downrefresh-animation</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Tableview sample code with pull-down/refresh animation.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Praveen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 31 May 2014 05:14:27 +0000</pubDate>
+ <dc:creator>pspk</dc:creator>
+ <guid isPermaLink="false">115 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Augmented Reality Kit</title>
+    <link>https://code.coronalabs.com/code/augmented-reality-kit</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a port of Objective-C ARKit for iPhone (&lt;a href=&quot;https://github.com/chrjs/iPhone-AR-Toolkit&quot;&gt;https://github.com/chrjs/iPhone-AR-T&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jyrki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 25 May 2014 07:22:54 +0000</pubDate>
+ <dc:creator>jyrki.hokkanen</dc:creator>
+ <guid isPermaLink="false">114 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Dropbox REST API module for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/dropbox-rest-api-module-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This gist includes two files: 1) dropboxModule.lua which allows your code to connect Dropbox and allows your user to authorize access for&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michael Weingarden&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 24 May 2014 23:18:05 +0000</pubDate>
+ <dc:creator>michael714</dc:creator>
+ <guid isPermaLink="false">113 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona module for displaying text and syncing audio narration to animated highlighting of the displayed text</title>
+    <link>https://code.coronalabs.com/code/corona-module-displaying-text-and-syncing-audio-narration-animated-highlighting-displayed-text</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;syncSound.lua is a Corona SDK module to add audio/video narration functionality with a couple simple function calls.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;joey.defourneaux&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 May 2014 08:53:06 +0000</pubDate>
+ <dc:creator>joey.defourneaux</dc:creator>
+ <guid isPermaLink="false">109 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_websockets</title>
+    <link>https://code.coronalabs.com/code/dmcwebsockets</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_websockets&lt;/code&gt; is an implementation of WebSockets RFC6544 for the Corona SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 May 2014 18:51:18 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">108 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_sockets – Buffered, non-blocking, event- or callback-based network library</title>
+    <link>https://code.coronalabs.com/code/dmcsockets-%E2%80%93-buffered-non-blocking-event-or-callback-based-network-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_sockets&lt;/code&gt; is a non-blocking socket library which uses events or callbacks to notify an application about network changes.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 23:00:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">107 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>IO Lib</title>
+    <link>https://code.coronalabs.com/code/io-lib</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Some functions to make reading and writing files a little easier.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 12 May 2014 08:57:20 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">106 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>HTML styled text</title>
+    <link>https://code.coronalabs.com/code/html-styled-text</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A pure-Lua text-rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Gross&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 09 May 2014 04:07:07 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">105 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Camp Fire </title>
+    <link>https://code.coronalabs.com/code/camp-fire</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is for anyone who wants a good basic camp fire effect without wanting to spend money on particle emitter.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Vibhu Bhola&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 07 May 2014 07:24:40 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">104 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_trajectory – parabolic motion for your objects</title>
+    <link>https://code.coronalabs.com/code/dmctrajectory-%E2%80%93-parabolic-motion-your-objects</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_trajectory&lt;/code&gt; is a Lua module which moves objects following ballistic trajectories (parabolic motion) without using the phy&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 02 May 2014 17:28:03 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">103 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Xcode Corona Editor</title>
+    <link>https://code.coronalabs.com/code/xcode-corona-editor</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Use Xcode as IDE for Corona SDK&lt;/p&gt;
+&lt;p&gt;Works with Xcode 4+5 - Corona SDK, Corona Enterprise and CoronaCards&lt;/p&gt;
+&lt;p&gt;Package includes:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 25 Apr 2014 22:45:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">102 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RGB colours</title>
+    <link>https://code.coronalabs.com/code/rgb-colours</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A list of RGB colours with supporting functions and Gfx2.0 colour code conversion.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 17 Apr 2014 08:49:01 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">101 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>2048 Clone</title>
+    <link>https://code.coronalabs.com/code/2048-clone</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Clone of 2048 built in Corona SDK&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;synchrok&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 15 Apr 2014 14:07:51 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">100 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>widget.newPanel -- Simple method to slide in and out a menu or inventory panel.</title>
+    <link>https://code.coronalabs.com/code/widgetnewpanel-simple-method-slide-and-out-menu-or-inventory-panel</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sample code demonstrating extending the widget framework to create a panel.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;coronarob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 09 Apr 2014 22:38:12 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">99 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Use tags with TImers</title>
+    <link>https://code.coronalabs.com/code/use-tags-timers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This small library extends the timer object (performWithDelay, pause, resume, and cancel) to use optional tags.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Marble68&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 07 Apr 2014 18:23:33 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">98 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Grid Layout</title>
+    <link>https://code.coronalabs.com/code/grid-layout</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Just a test grid layout that I made the other day, wanted to see how I could fill the screen with cubes :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;CinnamonPud&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 06 Apr 2014 20:37:39 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">97 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Preference Library - Save data to Files ( tables, numbers, strings and boolean )</title>
+    <link>https://code.coronalabs.com/code/preference-library-save-data-files-tables-numbers-strings-and-boolean</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This small useful module can be used to store and retrieve values across different app sessions.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;SatheeshJM&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 31 Mar 2014 07:45:57 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">96 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Connection checker</title>
+    <link>https://code.coronalabs.com/code/connection-checker</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple connectivity checker.&lt;br /&gt;
+Example of use:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ProGM&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 26 Mar 2014 15:30:06 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">95 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Picker - Color Picker to Your App With Just One Line of Code!</title>
+    <link>https://code.coronalabs.com/code/color-picker-color-picker-your-app-just-one-line-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hi Everybody,&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jason Schroeder&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Mar 2014 00:39:58 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">94 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Finger Paint Library - add finger painting with just one line of code!</title>
+    <link>https://code.coronalabs.com/code/finger-paint-library-add-finger-painting-just-one-line-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hi Everybody,&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jason Schroeder&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 22 Mar 2014 02:38:48 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">93 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Bitmap Font</title>
+    <link>https://code.coronalabs.com/code/bitmap-font</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;An implementation of a Bitmap Font SpriteSheet using Corona.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Zunware&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Mar 2014 19:22:39 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">92 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Arrow with drag applied to tail feathers.</title>
+    <link>https://code.coronalabs.com/code/arrow-drag-applied-tail-feathers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I&#039;ve tried to implement a similar drag effect as seen here: &lt;a href=&quot;http://www.iforce2d.net/b2dtut/sticky-projectiles&quot;&gt;http://www.iforce&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Mar 2014 09:50:04 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">91 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dbconfig</title>
+    <link>https://code.coronalabs.com/code/dbconfig</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A library class for saving data. It uses internally a fast sqlite database as a key-value store.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jeduancornejo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 11 Mar 2014 18:53:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">90 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple grid system</title>
+    <link>https://code.coronalabs.com/code/simple-grid-system</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple grid to create columns in your Corona SDK project.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Foxbyte&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Mar 2014 20:55:10 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">89 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Native textFields and textBoxes simulation on windows</title>
+    <link>https://code.coronalabs.com/code/native-textfields-and-textboxes-simulation-windows</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Adds a raw and buggy support for native.newTextField and native.newTextBox functions on windows.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ProGM&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Mar 2014 08:12:17 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">88 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>rgb</title>
+    <link>https://code.coronalabs.com/code/rgb</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Use color names instead of numbers&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jstrahan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 09 Mar 2014 18:08:39 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">87 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>typeExtend</title>
+    <link>https://code.coronalabs.com/code/typeextend</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;See my other modules, snippets, tutorials, &amp;amp; templates at  &lt;a href=&quot;http://j-strahan.com&quot;&gt;http://j-strahan.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jstrahan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 09 Mar 2014 17:47:20 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">86 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Is Polygon Concave Sample</title>
+    <link>https://code.coronalabs.com/code/polygon-concave-sample</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sample main demonstrating testing a polygon and it&#039;s points for concave status.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 08 Mar 2014 15:17:21 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">85 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>mathlib.lua</title>
+    <link>https://code.coronalabs.com/code/mathliblua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Updated mathematics library including polygon and various trigonometry functions.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 08 Mar 2014 15:08:13 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">84 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Polygon Exploder and Triangulator</title>
+    <link>https://code.coronalabs.com/code/polygon-exploder-and-triangulator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;App creates star polygons at random locations.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;bobcook47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Mar 2014 01:27:01 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Vertical auto-scrolling menu</title>
+    <link>https://code.coronalabs.com/code/vertical-auto-scrolling-menu</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a little example that I use to my app, is a autoscroll menu.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;arananet&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 04 Mar 2014 22:54:31 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">82 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Miscellaneous Utils</title>
+    <link>https://code.coronalabs.com/code/miscellaneous-utils</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Various utility functions which don&#039;t have a home elsewhere.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 03 Mar 2014 10:10:29 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">81 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Table Lib Extension</title>
+    <link>https://code.coronalabs.com/code/table-lib-extension</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Lua table extensions used to improve and expand the table.* library in a simple manner.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Mar 2014 14:16:13 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">80 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Performance Meter for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/performance-meter-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;THIS IS WORK AND CODE WAS CREATED BY LERG FOR CORONA SDK/ LUA USE. I DID NOT ADD ANYTHING TO THIS BUT TO UPDATE THE MODULE FOR GFX2.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Alex&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 24 Feb 2014 15:00:49 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">79 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Settlement</title>
+    <link>https://code.coronalabs.com/code/settlement</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This was what I came up with in 4 hours.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Pelagic Games&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 24 Feb 2014 04:18:30 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">78 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Solar Power Tower: Corona Blitz 2</title>
+    <link>https://code.coronalabs.com/code/solar-power-tower-corona-blitz-2</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&#039;Solar Power Tower&#039; was inspired by my last trip to Las Vegas, where you can see some pretty impressive solar arrays from the freeway at &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;R.Delia&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 22 Feb 2014 02:40:33 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">77 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>EndlessScroller</title>
+    <link>https://code.coronalabs.com/code/endlessscroller</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Corona SDK example showing how to create and endless scroller type game.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;funkyvisions&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 21 Feb 2014 21:31:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">76 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>HeartBeat</title>
+    <link>https://code.coronalabs.com/code/heartbeat</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Corona SDK example showing how to use a beating heart as a life meter.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;funkyvisions&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 21 Feb 2014 21:28:07 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">75 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Flappy Bird clone </title>
+    <link>https://code.coronalabs.com/code/flappy-bird-clone</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A clone of &#039;Flappy Bird&#039; made with Corona SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mark Falkland &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 20 Feb 2014 01:41:38 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">74 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fluid Simulation - Meta balls</title>
+    <link>https://code.coronalabs.com/code/fluid-simulation-meta-balls</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is just one example of what u can achieve with Corona SDK Graphics 2.0. Enjoy&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Trancelo0p&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Feb 2014 20:24:33 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">73 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RESTful APIs</title>
+    <link>https://code.coronalabs.com/code/restful-apis</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h3&gt;Abstract RESTful API class&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Rest.lua&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Easy to implement.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ShieldaX&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 17 Feb 2014 15:13:42 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">72 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Clean HTML</title>
+    <link>https://code.coronalabs.com/code/clean-html</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Cleans rich text so that HTML is cleanly removed, p and br tags are reduced to new lines and some special characters are replaced with th&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Feb 2014 13:40:12 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">71 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Update GPS every X seconds</title>
+    <link>https://code.coronalabs.com/code/update-gps-every-x-seconds</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Features:&lt;br /&gt;
+- Find current GPS position every X seconds&lt;br /&gt;
+- Avoid battery draining for searching GPS&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Foxbyte&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Feb 2014 08:23:11 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">70 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Physics Body Shape Flipper</title>
+    <link>https://code.coronalabs.com/code/physics-body-shape-flipper</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function flips a single or multi-element physics body and returns the flipped shape declaration for usage within the &quot;physics.addBod&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Brent Sorrentino&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 12 Feb 2014 22:23:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">69 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Forms -- Native text entry fields based on scrollView widget</title>
+    <link>https://code.coronalabs.com/code/forms-native-text-entry-fields-based-scrollview-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;As you already know, native text fields in Corona don&#039;t scroll with the OpenGL canvas......I&#039;ve built this &quot;form&quot; module to support creat&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;deweyg&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Feb 2014 21:02:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">68 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Calculate distances between markers and sort them (longitude, latitude) by your &#039;GPS position&#039;</title>
+    <link>https://code.coronalabs.com/code/calculate-distances-between-markers-and-sort-them-longitude-latitude-your-gps-position</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Do you want to calculate the distances between different GPS markers?&lt;br /&gt;
+Do you want to sort the markers by distance?&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Foxbyte&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Feb 2014 08:51:36 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">67 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_kompatible – easily get legacy G1.0 code to run in G2.0</title>
+    <link>https://code.coronalabs.com/code/dmckompatible-%E2%80%93-easily-get-legacy-g10-code-run-g20</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;dmc_kompatible is a Lua module which allows your legacy Corona code written for Graphics 1.0 to run in the new Corona Graphics 2.0 engine&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Feb 2014 04:15:38 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">66 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Perspective Virtual Camera System</title>
+    <link>https://code.coronalabs.com/code/perspective-virtual-camera-system</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Perspective is a free, easy to use camera library for integrating a &quot;tracking viewport&quot; into your game.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Caleb P (Gymbyl Coding)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 28 Jan 2014 21:08:40 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">65 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Create complex non-convex bodies</title>
+    <link>https://code.coronalabs.com/code/create-complex-non-convex-bodies</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a port to LUA and Corona SDK of the Convex Separator for Box2D class written by Antoon Angelov.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ragdog Studios SRL&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Jan 2014 06:52:24 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">64 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Multiplayer for CoronaSDK</title>
+    <link>https://code.coronalabs.com/code/multiplayer-coronasdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;OpenSource multiplayer and network messaging for CoronaSDK, Moai, Gideros &amp;amp; LÖVE&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Overtorment&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 23 Jan 2014 16:07:01 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">62 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Dropbox</title>
+    <link>https://code.coronalabs.com/code/dropbox</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Module to add Dropbox integration to your Corona project.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;F. E. Torkel&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jan 2014 04:43:52 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">61 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Physics Collision Library</title>
+    <link>https://code.coronalabs.com/code/physics-collision-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;To help with the calculation of physics collision categories and masks there is an excellent table available:&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 21 Jan 2014 11:44:49 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">60 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>ModeloEspecial: An ORM based on Backbone.JS</title>
+    <link>https://code.coronalabs.com/code/modeloespecial-orm-based-backbonejs</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;ModeloEspecial is an ORM that is inspired heavily by Backbone.Model. It takes an object oriented approach to database interaction.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jeduan&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 20 Jan 2014 18:26:42 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">59 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>A* Pathfinding Demo</title>
+    <link>https://code.coronalabs.com/code/pathfinding-demo</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This tutorial utilizes the great A* pathfinding code uploaded by Lerg which is found here: &lt;a href=&quot;http://developer.anscamobile.com/code&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;codepunk_schmidt&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:17:15 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">58 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>AutoLAN</title>
+    <link>https://code.coronalabs.com/code/autolan</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;AutoLAN is now free for everyone to use and learn from! If you want to get started in local networking here is the place to start!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;M.Y. Developers&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:13:06 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">57 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Easy Save/Load table data for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/easy-saveload-table-data-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Two functions to easily load and save a table of Lua data to your apps storage.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:07:10 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">56 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>RSS Parser</title>
+    <link>https://code.coronalabs.com/code/rss-parser</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Load RSS feeds into your app.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:06:07 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">55 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Detecting collisions without physics</title>
+    <link>https://code.coronalabs.com/code/detecting-collisions-without-physics</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;You can detect collisions between objects without using physics using these two routines.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 18 Jan 2014 03:04:10 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">54 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>CBEffects: Visual Effects Engine</title>
+    <link>https://code.coronalabs.com/code/cbeffects-visual-effects-engine</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;CBEffects is the ultimate visual effects engine for Corona SDK.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Caleb&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:49:10 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">53 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>EventConsole 1.2</title>
+    <link>https://code.coronalabs.com/code/eventconsole-12</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a handy library for on-device testing.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;marble68&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:36:17 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">52 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Depth / Sortable Display Group</title>
+    <link>https://code.coronalabs.com/code/depth-sortable-display-group</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This library extends the normal display group to allow you to sort the children within it.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;rakoonic&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:33:05 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">51 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Cyan: Table Serialization Made Awesome</title>
+    <link>https://code.coronalabs.com/code/cyan-table-serialization-made-awesome</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Easier to write than normal Lua syntax, just as fast as JSON, and very human-readable, Cyan is the most flexible table serialization nota&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Caleb&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:29:03 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">50 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Perfect Vertical Text Alignment Across Devices</title>
+    <link>https://code.coronalabs.com/code/perfect-vertical-text-alignment-across-devices</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;By measuring the total font height and where the actual text is visible from top and bottom, you can get the percentage offset required t&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jonjonsson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:23:55 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">49 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Parental Gate</title>
+    <link>https://code.coronalabs.com/code/parental-gate</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Implements &quot;Parental Gate&quot; functionality for Corona apps that want to be included in the App Store KIDS section.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;funkyvisions&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:19:16 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">48 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Magnet: Position Helper for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/magnet-position-helper-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A module to position display objects on different screen resolutions.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Iván Juárez&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 22:13:36 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">47 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Continue using &quot;setReferencePoint()&quot; in Graphics 2.0</title>
+    <link>https://code.coronalabs.com/code/continue-using-setreferencepoint-graphics-20</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Requiring this function will re-enable &lt;code&gt;obj:setReferencePoint()&lt;/code&gt; in Graphics 2.0 for the following objects:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;AlanPlantPot&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Jan 2014 21:25:41 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">46 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

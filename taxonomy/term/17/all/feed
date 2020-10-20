@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/17/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Utilities</title>
+    <link>https://code.coronalabs.com/taxonomy/term/17/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/17/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>App Icon Generator</title>
+    <link>https://code.coronalabs.com/code/app-icon-generator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This program is written in LUA and runs in Corona SDK. Replace 1 main file and generate iOS and Android app icons automatically that are properly named. If you need more icons just add them!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mythinkhouse&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 May 2017 03:03:08 +0000</pubDate>
+ <dc:creator>mythinkhouse</dc:creator>
+ <guid isPermaLink="false">206 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tiled Map Editor selector utility library</title>
+    <link>https://code.coronalabs.com/code/tiled-map-editor-selector-utility-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Utility which loads Tiled map (exported to lua format) and provides selector methods for certain elements. Objects returned by these methods can be used as Corona SDK methods input. Currently image, tileset, rectangle or polyline can be retrieved for display. There is also possibility of using polyline as collision shape for image.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Michał Rzeszut&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 03 Aug 2016 20:55:48 +0000</pubDate>
+ <dc:creator>rzeszut.michal</dc:creator>
+ <guid isPermaLink="false">203 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>layout.lua - Device independent layout manager</title>
+    <link>https://code.coronalabs.com/code/layoutlua-device-independent-layout-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The layout manager makes it easy to create &lt;em&gt;regions&lt;/em&gt;, rectangular areas defined relative to the screen, the stage (which may or may not be the full screen), and to the previously created user-defined regions. The final regions are created with content coordinates.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ron&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jun 2016 22:26:47 +0000</pubDate>
+ <dc:creator>ron5</dc:creator>
+ <guid isPermaLink="false">200 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Save User preferences</title>
+    <link>https://code.coronalabs.com/code/save-user-preferences</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Anil&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 16 May 2016 18:05:49 +0000</pubDate>
+ <dc:creator>anilsingh.singh09</dc:creator>
+ <guid isPermaLink="false">197 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Turn off auto correction on native.newTextBox</title>
+    <link>https://code.coronalabs.com/code/turn-auto-correction-nativenewtextbox</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This piece of code extends the native.newTextBox so it is possible to turn off the in some cases annoying auto-correction feature.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Nov 2015 07:56:39 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">193 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Lua Units</title>
+    <link>https://code.coronalabs.com/code/lua-units</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple, elegant, concise helper module that converts quantities between measurement units.&lt;br /&gt;
+For the moment only common distance units (metric + non-metric) are implemented, but the module can grow.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;silverthorax&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Nov 2015 23:03:09 +0000</pubDate>
+ <dc:creator>silverthorax</dc:creator>
+ <guid isPermaLink="false">192 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Retrieve named colors (Hex) and convert to RGB</title>
+    <link>https://code.coronalabs.com/code/retrieve-named-colors-hex-and-convert-rgb</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple helper I wrote so I could reference the same colours throughout my app more easily.&lt;/p&gt;
+&lt;p&gt;I have a color pallette for my app with named colours which I can refer to whenever I need to set the colour for something.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;moollaza&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 17 Oct 2015 02:31:32 +0000</pubDate>
+ <dc:creator>uncovr</dc:creator>
+ <guid isPermaLink="false">189 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Pasteboard copy/paste string for Mac OSX builds</title>
+    <link>https://code.coronalabs.com/code/pasteboard-copypaste-string-mac-osx-builds</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Copy/paste string to pasteboard for Mac OS X builds.&lt;br /&gt;
+Images not supported.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 24 Sep 2015 08:13:28 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">188 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fibonacci clock</title>
+    <link>https://code.coronalabs.com/code/fibonacci-clock</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Graphical representation utilizing the Fibonacci sequence to tell the time.&lt;br /&gt;
+Clock video demo :&lt;br /&gt;
+&lt;a href=&quot;https://youtu.be/bi-uZVHnfbI&quot;&gt;https://youtu.be/bi-uZVHnfbI&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;shayde&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 31 Jul 2015 00:02:13 +0000</pubDate>
+ <dc:creator>shaydebarra</dc:creator>
+ <guid isPermaLink="false">184 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>copyDatabaseTo() - A function to install a writable, prepopulated database.</title>
+    <link>https://code.coronalabs.com/code/copydatabaseto-function-install-writable-prepopulated-database</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function will copy an SQLlite database (or any binary data file) from your app bundle and put it into a writable area like system.DocumentsDirectory.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 19 May 2015 05:14:29 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">182 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Transition Matrix</title>
+    <link>https://code.coronalabs.com/code/color-transition-matrix</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function returns a matrix of RGB values that allow you to gradually change from one color to another using a single index, like the position of a scrollview/springboard.&lt;/p&gt;
+&lt;p&gt;It takes a two dimensional array of RGB colors, each page width and the total amount of pages.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tanner Gower&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 May 2015 03:23:28 +0000</pubDate>
+ <dc:creator>triggdev</dc:creator>
+ <guid isPermaLink="false">181 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Sozluk - Localization Library</title>
+    <link>https://code.coronalabs.com/code/sozluk-localization-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sozluk(meaning &#039;dictionary&#039; in Turkish) is a localization library for Corona SDK (and probably LÖVE 2D).&lt;/p&gt;
+&lt;p&gt;Main difference of this library is that it uses Lua files to store localization data, instead of text or json files. This will let you easily update your games/apps over 50MB on Google Play without coping with patch files.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Serkan Aksit - bgmadclown&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Apr 2015 18:48:58 +0000</pubDate>
+ <dc:creator>bgmadclown</dc:creator>
+ <guid isPermaLink="false">174 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Textrender</title>
+    <link>https://code.coronalabs.com/code/corona-textrender</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics.&lt;/p&gt;
+&lt;p&gt;This module renders text close to a proper desktop publishing program like Adobe InDesign. That means I can position text correctly on screen for books, etc.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Gross&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 09 Apr 2015 22:38:38 +0000</pubDate>
+ <dc:creator>mimetic</dc:creator>
+ <guid isPermaLink="false">173 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Date Picker Wheel Widget</title>
+    <link>https://code.coronalabs.com/code/date-picker-wheel-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Date Picker Wheel widget that actually adjusts for the different number of days in each months, and even accounts for leap years!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mdsandell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Mar 2015 04:37:11 +0000</pubDate>
+ <dc:creator>mark.sandell</dc:creator>
+ <guid isPermaLink="false">172 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/283/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>transition</title>
+    <link>https://code.coronalabs.com/taxonomy/term/283/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/283/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Display Object Color Transition</title>
+    <link>https://code.coronalabs.com/code/display-object-color-transition</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;transition.to doesn&#039;t seem to support color transitions. So I made one myself using enterFrame, which is how I suspect corona&#039;s transition library works too.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;danielr0&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Apr 2016 04:18:51 +0000</pubDate>
+ <dc:creator>danielr0</dc:creator>
+ <guid isPermaLink="false">196 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Transition Matrix</title>
+    <link>https://code.coronalabs.com/code/color-transition-matrix</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function returns a matrix of RGB values that allow you to gradually change from one color to another using a single index, like the position of a scrollview/springboard.&lt;/p&gt;
+&lt;p&gt;It takes a two dimensional array of RGB colors, each page width and the total amount of pages.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tanner Gower&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 May 2015 03:23:28 +0000</pubDate>
+ <dc:creator>triggdev</dc:creator>
+ <guid isPermaLink="false">181 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Infinite Transition Loop sample</title>
+    <link>https://code.coronalabs.com/code/infinite-transition-loop-sample</link>
+    <description>&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Evandro Costa&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 20 Feb 2015 22:51:48 +0000</pubDate>
+ <dc:creator>Evandro Costa</dc:creator>
+ <guid isPermaLink="false">164 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tutorial: Moving Objects Along a Path</title>
+    <link>https://code.coronalabs.com/code/tutorial-moving-objects-along-path</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Project for the Moving Objects Along a Path tutorial at: &lt;a href=&quot;http://coronalabs.com/blog/2014/01/07/tutorial-moving-objects-along-a-path/&quot;&gt;http://coronalabs.com/blog/2014/01/07/tutorial-moving-objects-along-a-path/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 01:59:55 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">153 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Spring Animation Curve Easing</title>
+    <link>https://code.coronalabs.com/code/spring-animation-curve-easing</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A drop-in replacement easing curve for transition.to animations, based on a damped spring.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Kyle Coburn&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 24 Jan 2015 10:21:42 +0000</pubDate>
+ <dc:creator>Kyle Coburn</dc:creator>
+ <guid isPermaLink="false">152 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

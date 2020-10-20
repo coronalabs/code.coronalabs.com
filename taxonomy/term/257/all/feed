@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/257/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>joystick</title>
+    <link>https://code.coronalabs.com/taxonomy/term/257/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/257/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Virtual Controller: Multiple Joysticks and Buttons</title>
+    <link>https://code.coronalabs.com/code/virtual-controller-multiple-joysticks-and-buttons</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple controller you can use to add multiple joysticks and buttons on screen. Very modifiable.&lt;br /&gt;
+Very simple to use. There is a sample program that shows using two joysticks and handling their movements with timers and with event handlers that you pass into the controller.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Trevor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Apr 2017 01:42:51 +0000</pubDate>
+ <dc:creator>trevornmarshall</dc:creator>
+ <guid isPermaLink="false">205 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Joystick Module with SpriteSheet Example</title>
+    <link>https://code.coronalabs.com/code/virtual-joystick-module-spritesheet-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello Guys, Send for all, Virtual Joystick module with player sprite working perfect.&lt;/p&gt;
+&lt;p&gt;Sorry for my english, i am brazilian.&lt;/p&gt;
+&lt;p&gt;Thanks for all.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;William Coelho&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Sep 2015 00:53:32 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">187 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple Joystick</title>
+    <link>https://code.coronalabs.com/code/simple-joystick</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple Lua/Corona module for an on-screen joystick.  Based on code from Rob Miracle (&lt;a href=&quot;http://forums.coronalabs.com/topic/32941-virtual-joystick-module-for-games/&quot;&gt;http://forums.coronalabs.com/topic/32941-virtual-joystick-module-for-games/&lt;/a&gt;), somewhat simplified, removed some nice-ities, but it still works.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jbp1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 08 Oct 2014 17:04:49 +0000</pubDate>
+ <dc:creator>jbp1</dc:creator>
+ <guid isPermaLink="false">136 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/18/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Physics</title>
+    <link>https://code.coronalabs.com/taxonomy/term/18/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/18/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple AI for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/simple-ai-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Simple artificial intelligence for Corona SDK&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;easy connect to the project&lt;/li&gt;
+&lt;li&gt;light, fast and easy in use&lt;/li&gt;
+&lt;li&gt;flexible&lt;/li&gt;
+&lt;li&gt;extensiable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Overview&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;enbahtov&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Jul 2016 04:23:38 +0000</pubDate>
+ <dc:creator>enbahtov</dc:creator>
+ <guid isPermaLink="false">202 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Point - A 2D Math Library.  Simplifies vector math.</title>
+    <link>https://code.coronalabs.com/code/point-2d-math-library-simplifies-vector-math</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2d Math Library for Corona SDK / Lua&lt;/p&gt;
+&lt;p&gt;Point is a 2d math library for Corona SDK or just plain ol&#039; lua. It allows us to think of positions within corona as single units (points) vs independent x and y coordinates.  You can run methods directly on those points.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tameem Hamoui&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 May 2016 05:33:43 +0000</pubDate>
+ <dc:creator>tameem50</dc:creator>
+ <guid isPermaLink="false">198 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc_trajectory – parabolic motion for your objects</title>
+    <link>https://code.coronalabs.com/code/dmctrajectory-%E2%80%93-parabolic-motion-your-objects</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;code&gt;dmc_trajectory&lt;/code&gt; is a Lua module which moves objects following ballistic trajectories (parabolic motion) without using the physics engine.  The module can also auto-rotate objects to match the slope of the trajectory path. Using it is as simple as setting up a transition with a few Corona parameters.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 02 May 2014 17:28:03 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">103 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Arrow with drag applied to tail feathers.</title>
+    <link>https://code.coronalabs.com/code/arrow-drag-applied-tail-feathers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I&#039;ve tried to implement a similar drag effect as seen here: &lt;a href=&quot;http://www.iforce2d.net/b2dtut/sticky-projectiles&quot;&gt;http://www.iforce2d.net/b2dtut/sticky-projectiles&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Mar 2014 09:50:04 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">91 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>mathlib.lua</title>
+    <link>https://code.coronalabs.com/code/mathliblua</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Updated mathematics library including polygon and various trigonometry functions.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 08 Mar 2014 15:08:13 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">84 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Polygon Exploder and Triangulator</title>
+    <link>https://code.coronalabs.com/code/polygon-exploder-and-triangulator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;App creates star polygons at random locations.  A tap on the polygon calls a general-purpose triangulator, adds the triangles as physics bodies, and gives them a spin to simulate an explosion.  When all the fragments have flown off the screen, a new star is created.&lt;/p&gt;
+&lt;p&gt;The triangulator code can easily be snipped for other purposes.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;bobcook47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Mar 2014 01:27:01 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>EndlessScroller</title>
+    <link>https://code.coronalabs.com/code/endlessscroller</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Corona SDK example showing how to create and endless scroller type game.&lt;/p&gt;
+&lt;p&gt;See the video at: &lt;a href=&quot;http://youtu.be/UZjt6b4k7Io&quot;&gt;http://youtu.be/UZjt6b4k7Io&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;funkyvisions&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 21 Feb 2014 21:31:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">76 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fluid Simulation - Meta balls</title>
+    <link>https://code.coronalabs.com/code/fluid-simulation-meta-balls</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is just one example of what u can achieve with Corona SDK Graphics 2.0. Enjoy&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Trancelo0p&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 19 Feb 2014 20:24:33 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">73 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Physics Body Shape Flipper</title>
+    <link>https://code.coronalabs.com/code/physics-body-shape-flipper</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function flips a single or multi-element physics body and returns the flipped shape declaration for usage within the &quot;physics.addBody()&quot; API. Currently, this version only supports &lt;strong&gt;horizontal&lt;/strong&gt; flipping (reflection across a theoretical center vertical axis).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Brent Sorrentino&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 12 Feb 2014 22:23:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">69 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Create complex non-convex bodies</title>
+    <link>https://code.coronalabs.com/code/create-complex-non-convex-bodies</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a port to LUA and Corona SDK of the Convex Separator for Box2D class written by Antoon Angelov.&lt;br /&gt;
+It converts complex, non-convex shapes into fully supported multi-bodies.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ragdog Studios SRL&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Jan 2014 06:52:24 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">64 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Physics Collision Library</title>
+    <link>https://code.coronalabs.com/code/physics-collision-library</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;To help with the calculation of physics collision categories and masks there is an excellent table available:&lt;br /&gt;
+&lt;a href=&quot;http://forums.coronalabs.com/topic/2128-collision-filters-helper-chart/&quot;&gt;http://forums.coronalabs.com/topic/2128-collision-filters-helper-chart/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 21 Jan 2014 11:44:49 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">60 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/12/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Game Logic</title>
+    <link>https://code.coronalabs.com/taxonomy/term/12/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/12/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Controller: Multiple Joysticks and Buttons</title>
+    <link>https://code.coronalabs.com/code/virtual-controller-multiple-joysticks-and-buttons</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple controller you can use to add multiple joysticks and buttons on screen. Very modifiable.&lt;br /&gt;
+Very simple to use. There is a sample program that shows using two joysticks and handling their movements with timers and with event handlers that you pass into the controller.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Trevor&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Apr 2017 01:42:51 +0000</pubDate>
+ <dc:creator>trevornmarshall</dc:creator>
+ <guid isPermaLink="false">205 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple AI for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/simple-ai-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;h1&gt;Simple artificial intelligence for Corona SDK&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;easy connect to the project&lt;/li&gt;
+&lt;li&gt;light, fast and easy in use&lt;/li&gt;
+&lt;li&gt;flexible&lt;/li&gt;
+&lt;li&gt;extensiable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Overview&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;enbahtov&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Jul 2016 04:23:38 +0000</pubDate>
+ <dc:creator>enbahtov</dc:creator>
+ <guid isPermaLink="false">202 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Point - A 2D Math Library.  Simplifies vector math.</title>
+    <link>https://code.coronalabs.com/code/point-2d-math-library-simplifies-vector-math</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;2d Math Library for Corona SDK / Lua&lt;/p&gt;
+&lt;p&gt;Point is a 2d math library for Corona SDK or just plain ol&#039; lua. It allows us to think of positions within corona as single units (points) vs independent x and y coordinates.  You can run methods directly on those points.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tameem Hamoui&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 18 May 2016 05:33:43 +0000</pubDate>
+ <dc:creator>tameem50</dc:creator>
+ <guid isPermaLink="false">198 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Logicka</title>
+    <link>https://code.coronalabs.com/code/logicka</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A game that give you a first contact with Programming Logical aspects.&lt;/p&gt;
+&lt;p&gt;Made as a requirement to the PGP discipline at the brazilian university IFSP.&lt;/p&gt;
+&lt;p&gt;Almost all the documentation and code comments are in portuguese.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Luborges&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 10 Feb 2016 17:52:08 +0000</pubDate>
+ <dc:creator>lucas.s.m.b</dc:creator>
+ <guid isPermaLink="false">195 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Joystick Module with SpriteSheet Example</title>
+    <link>https://code.coronalabs.com/code/virtual-joystick-module-spritesheet-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello Guys, Send for all, Virtual Joystick module with player sprite working perfect.&lt;/p&gt;
+&lt;p&gt;Sorry for my english, i am brazilian.&lt;/p&gt;
+&lt;p&gt;Thanks for all.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;William Coelho&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Sep 2015 00:53:32 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">187 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fill a Vertical Progress Indicator</title>
+    <link>https://code.coronalabs.com/code/fill-vertical-progress-indicator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to place a vertical progress indicator in your code here is how to do it!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Arthur A. Roberts&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 Apr 2015 11:47:33 +0000</pubDate>
+ <dc:creator>aaroberts</dc:creator>
+ <guid isPermaLink="false">175 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Infinite Timer Loop</title>
+    <link>https://code.coronalabs.com/code/infinite-timer-loop</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to animate different objects throughout the game with proper time interval of time, you can use this code. I&#039;ve used this in my game to animate balloons and other objects in game.&lt;br /&gt;
+Also this will help to call different functions at different interval of time.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;akshadaS&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 13 Mar 2015 12:30:40 +0000</pubDate>
+ <dc:creator>akshada.sapre</dc:creator>
+ <guid isPermaLink="false">166 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>1 Button with two functions</title>
+    <link>https://code.coronalabs.com/code/1-button-two-functions</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Well, there is a time ago was looking for a function that uses one button with two functions, and saw the people looking for it. I found a possible solution that worked for me. and I will share here.&lt;/p&gt;
+&lt;p&gt;Hello, I am Brazilian and sorry for any errors, my English is bad.&lt;br /&gt;
+The sample code can be downloaded from the gist attached link.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dantes2023&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Feb 2015 01:33:33 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">163 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple Accelerometer Data Conversion to Degrees</title>
+    <link>https://code.coronalabs.com/code/simple-accelerometer-data-conversion-degrees</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Here is a handy lua Corona Labs code chunk to convert xyz accelerometer data to degrees.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Simon Fearby&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 12:53:19 +0000</pubDate>
+ <dc:creator>FearTec</dc:creator>
+ <guid isPermaLink="false">160 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced Random Numbers</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-random-numbers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced Random Numbers (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/11/tutorial-advanced-random-numbers/&quot;&gt;http://coronalabs.com/blog/2014/03/11/tutorial-advanced-random-numbers/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:14:16 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">159 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Turn Based Gameplay Example</title>
+    <link>https://code.coronalabs.com/code/turn-based-gameplay-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;I just started a new project and thought this kind of code may be helpful for people trying to learn.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Garrett Savo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 05 Dec 2014 13:35:34 +0000</pubDate>
+ <dc:creator>Garrettsavo</dc:creator>
+ <guid isPermaLink="false">144 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simulate Space in less than 30 lines of Code</title>
+    <link>https://code.coronalabs.com/code/simulate-space-less-30-lines-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;it will give you a feeling of a spaceship moving in space&lt;/p&gt;
+&lt;p&gt;another function could show planets and nebulae with different speeds&lt;/p&gt;
+&lt;p&gt;you can also tweak it a little bit and create different transition speeds for stars depending on their sizes&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 06:13:43 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">139 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Only Ten to hundred lines of code to make a very small paint game for kids In a smart way</title>
+    <link>https://code.coronalabs.com/code/only-ten-hundred-lines-code-make-very-small-paint-game-kids-smart-way</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;i think the idea is cool&lt;/p&gt;
+&lt;p&gt;just one loop will create small objects (circles or rectangles) to fill the screen&lt;br /&gt;
+each object will have the same touch event which will fill the object with a randomly selected color&lt;/p&gt;
+&lt;p&gt;add a few lines to have different background color, and different sizes for your objects&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 05:51:59 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">138 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simple Joystick</title>
+    <link>https://code.coronalabs.com/code/simple-joystick</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A simple Lua/Corona module for an on-screen joystick.  Based on code from Rob Miracle (&lt;a href=&quot;http://forums.coronalabs.com/topic/32941-virtual-joystick-module-for-games/&quot;&gt;http://forums.coronalabs.com/topic/32941-virtual-joystick-module-for-games/&lt;/a&gt;), somewhat simplified, removed some nice-ities, but it still works.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;jbp1&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 08 Oct 2014 17:04:49 +0000</pubDate>
+ <dc:creator>jbp1</dc:creator>
+ <guid isPermaLink="false">136 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

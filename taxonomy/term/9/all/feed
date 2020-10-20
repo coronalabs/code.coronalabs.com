@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/9/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Events</title>
+    <link>https://code.coronalabs.com/taxonomy/term/9/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/9/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Virtual Joystick Module with SpriteSheet Example</title>
+    <link>https://code.coronalabs.com/code/virtual-joystick-module-spritesheet-example</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hello Guys, Send for all, Virtual Joystick module with player sprite working perfect.&lt;/p&gt;
+&lt;p&gt;Sorry for my english, i am brazilian.&lt;/p&gt;
+&lt;p&gt;Thanks for all.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;William Coelho&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 11 Sep 2015 00:53:32 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">187 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Fill a Vertical Progress Indicator</title>
+    <link>https://code.coronalabs.com/code/fill-vertical-progress-indicator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;If you want to place a vertical progress indicator in your code here is how to do it!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Arthur A. Roberts&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 Apr 2015 11:47:33 +0000</pubDate>
+ <dc:creator>aaroberts</dc:creator>
+ <guid isPermaLink="false">175 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Starter Template</title>
+    <link>https://code.coronalabs.com/code/starter-template</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is an empty project template for Corona SDK starters, explaining some of the basic concepts and providing an example project organization.&lt;/p&gt;
+&lt;p&gt;Some of the basic concepts included and explained in this template are:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Serkan Aksit - bgmadclown&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 24 Mar 2015 23:26:18 +0000</pubDate>
+ <dc:creator>bgmadclown</dc:creator>
+ <guid isPermaLink="false">171 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>1 Button with two functions</title>
+    <link>https://code.coronalabs.com/code/1-button-two-functions</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Well, there is a time ago was looking for a function that uses one button with two functions, and saw the people looking for it. I found a possible solution that worked for me. and I will share here.&lt;/p&gt;
+&lt;p&gt;Hello, I am Brazilian and sorry for any errors, my English is bad.&lt;br /&gt;
+The sample code can be downloaded from the gist attached link.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Dantes2023&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Feb 2015 01:33:33 +0000</pubDate>
+ <dc:creator>williamurucui</dc:creator>
+ <guid isPermaLink="false">163 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced TableView Tactics</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-tableview-tactics</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced TableView Tactics (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&quot;&gt;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:10:02 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">158 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code From: Tutorial: Continuous Actions in Corona</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-continuous-actions-corona</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code From: Tutorial: Continuous Actions in Corona &lt;a href=&quot;http://coronalabs.com/blog/2014/02/04/tutorial-continuous-actions-in-corona/&quot;&gt;http://coronalabs.com/blog/2014/02/04/tutorial-continuous-actions-in-cor...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:29:44 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">155 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Simulate Space in less than 30 lines of Code</title>
+    <link>https://code.coronalabs.com/code/simulate-space-less-30-lines-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;it will give you a feeling of a spaceship moving in space&lt;/p&gt;
+&lt;p&gt;another function could show planets and nebulae with different speeds&lt;/p&gt;
+&lt;p&gt;you can also tweak it a little bit and create different transition speeds for stars depending on their sizes&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 06:13:43 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">139 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Only Ten to hundred lines of code to make a very small paint game for kids In a smart way</title>
+    <link>https://code.coronalabs.com/code/only-ten-hundred-lines-code-make-very-small-paint-game-kids-smart-way</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;i think the idea is cool&lt;/p&gt;
+&lt;p&gt;just one loop will create small objects (circles or rectangles) to fill the screen&lt;br /&gt;
+each object will have the same touch event which will fill the object with a randomly selected color&lt;/p&gt;
+&lt;p&gt;add a few lines to have different background color, and different sizes for your objects&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tariq&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 26 Oct 2014 05:51:59 +0000</pubDate>
+ <dc:creator>tkhatieb</dc:creator>
+ <guid isPermaLink="false">138 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Advanced Logging</title>
+    <link>https://code.coronalabs.com/code/corona-advanced-logging</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Used for error handling and logging events to console and a set of rolling text log files.&lt;br /&gt;
+- Use it instead of print in your Corona project&lt;br /&gt;
+- Your messages will be printed in console but also logged in text files&lt;br /&gt;
+- A set of rolling text files is used so you can retrace the steps that lead to a bug&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Daniel Strmečki&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Aug 2014 16:48:51 +0000</pubDate>
+ <dc:creator>daniel.strmecki</dc:creator>
+ <guid isPermaLink="false">126 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>OOP Based Scene Manager</title>
+    <link>https://code.coronalabs.com/code/oop-based-scene-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Composer/Storyboard if you like doing things with classes rather than files.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;PaulScottRobson&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Jun 2014 09:32:20 +0000</pubDate>
+ <dc:creator>paulscottrobson</dc:creator>
+ <guid isPermaLink="false">117 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Use tags with TImers</title>
+    <link>https://code.coronalabs.com/code/use-tags-timers</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This small library extends the timer object (performWithDelay, pause, resume, and cancel) to use optional tags.&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Marble68&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 07 Apr 2014 18:23:33 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">98 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Finger Paint Library - add finger painting with just one line of code!</title>
+    <link>https://code.coronalabs.com/code/finger-paint-library-add-finger-painting-just-one-line-code</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hi Everybody,&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Jason Schroeder&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 22 Mar 2014 02:38:48 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">93 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://code.coronalabs.com/taxonomy/term/16/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>UI / UX</title>
+    <link>https://code.coronalabs.com/taxonomy/term/16/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://code.coronalabs.com/taxonomy/term/16/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>simple_toast</title>
+    <link>https://code.coronalabs.com/code/simpletoast</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Simple example for Toast Notification without any plugins for Corona SDK.&lt;/p&gt;
+&lt;p&gt;For all supported platforms!&lt;/p&gt;
+&lt;p&gt;How to use?&lt;/p&gt;
+&lt;p&gt;• Add toast.lua in your Corona project root directory&lt;/p&gt;
+&lt;p&gt;• Add string &#039;require &quot;toast&quot;&#039; in main.lua&lt;/p&gt;
+&lt;p&gt;• For display a toast notification, use next code:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;krdpnsk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Nov 2019 07:18:03 +0000</pubDate>
+ <dc:creator>krdpnsk</dc:creator>
+ <guid isPermaLink="false">207 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>App Icon Generator</title>
+    <link>https://code.coronalabs.com/code/app-icon-generator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This program is written in LUA and runs in Corona SDK. Replace 1 main file and generate iOS and Android app icons automatically that are properly named. If you need more icons just add them!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mythinkhouse&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 May 2017 03:03:08 +0000</pubDate>
+ <dc:creator>mythinkhouse</dc:creator>
+ <guid isPermaLink="false">206 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Scrollview with draggable item adding</title>
+    <link>https://code.coronalabs.com/code/scrollview-draggable-item-adding</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This library adds a new type of scrollview widget to the widget.* library under the name widget.newDragItemsScrollView(). The scroll view can then have display objects added to it which can be dragged off the scrollview by either touching and holding or pulling them in a given direction.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;horacebury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 31 Dec 2016 08:44:31 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">204 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>mui (Material UI for business apps)</title>
+    <link>https://code.coronalabs.com/code/mui-material-ui-business-apps</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Material-ui (MUI) is a loosely based Material UI module for Corona Labs SDK. It is written in Lua using the free edition of the SDK. The module will help build a UI based on Material Design.&lt;/p&gt;
+&lt;p&gt;Documentation is available at: &lt;a href=&quot;https://www.anedix.com/docs/mui/&quot;&gt;https://www.anedix.com/docs/mui/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Paul Cardwell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Jun 2016 03:43:06 +0000</pubDate>
+ <dc:creator>paul.cardwell</dc:creator>
+ <guid isPermaLink="false">201 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>layout.lua - Device independent layout manager</title>
+    <link>https://code.coronalabs.com/code/layoutlua-device-independent-layout-manager</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The layout manager makes it easy to create &lt;em&gt;regions&lt;/em&gt;, rectangular areas defined relative to the screen, the stage (which may or may not be the full screen), and to the previously created user-defined regions. The final regions are created with content coordinates.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Ron&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 22 Jun 2016 22:26:47 +0000</pubDate>
+ <dc:creator>ron5</dc:creator>
+ <guid isPermaLink="false">200 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Turn off auto correction on native.newTextBox</title>
+    <link>https://code.coronalabs.com/code/turn-auto-correction-nativenewtextbox</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This piece of code extends the native.newTextBox so it is possible to turn off the in some cases annoying auto-correction feature.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;ojnab&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Nov 2015 07:56:39 +0000</pubDate>
+ <dc:creator>ojnab</dc:creator>
+ <guid isPermaLink="false">193 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Color Transition Matrix</title>
+    <link>https://code.coronalabs.com/code/color-transition-matrix</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This function returns a matrix of RGB values that allow you to gradually change from one color to another using a single index, like the position of a scrollview/springboard.&lt;/p&gt;
+&lt;p&gt;It takes a two dimensional array of RGB colors, each page width and the total amount of pages.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tanner Gower&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 15 May 2015 03:23:28 +0000</pubDate>
+ <dc:creator>triggdev</dc:creator>
+ <guid isPermaLink="false">181 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Create a drop shadow</title>
+    <link>https://code.coronalabs.com/code/create-drop-shadow</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Create a drop shadow without the use of snapshot without the use of snapshot.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Apr 2015 05:34:31 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">179 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>dmc-corona-ui – advanced widgets for Corona SDK</title>
+    <link>https://code.coronalabs.com/code/dmc-corona-ui-%E2%80%93-advanced-widgets-corona-sdk</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;DMC Corona UI is an advanced widget library for Corona and contains Widgets, Styles and Controls.&lt;/p&gt;
+&lt;p&gt;Many of the Widgets wrap other OpenGL or platform-native objects to make them behave more consistently. &lt;em&gt;All of the components are style/theme-aware.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;dmccuskey&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Apr 2015 07:21:03 +0000</pubDate>
+ <dc:creator>dmccuskey</dc:creator>
+ <guid isPermaLink="false">178 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Flood fill</title>
+    <link>https://code.coronalabs.com/code/flood-fill</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Flood fill a display object with a Gfx2.0 gradient fill. Can be used to provide the Android Material Design button interaction animation, eg: &lt;a href=&quot;http://www.google.com/design/spec/components/buttons.html#buttons-flat-raised-buttons&quot;&gt;http://www.google.com/design/spec/components/buttons.html#buttons-flat-r...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;HoraceBury&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Apr 2015 11:28:18 +0000</pubDate>
+ <dc:creator>horacebury</dc:creator>
+ <guid isPermaLink="false">176 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Corona Textrender</title>
+    <link>https://code.coronalabs.com/code/corona-textrender</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A pure-Lua text rendering module for Corona SDK which can handle basic HTML, fonts, font-styles, and even basic font metrics.&lt;/p&gt;
+&lt;p&gt;This module renders text close to a proper desktop publishing program like Adobe InDesign. That means I can position text correctly on screen for books, etc.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;David Gross&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 09 Apr 2015 22:38:38 +0000</pubDate>
+ <dc:creator>mimetic</dc:creator>
+ <guid isPermaLink="false">173 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Date Picker Wheel Widget</title>
+    <link>https://code.coronalabs.com/code/date-picker-wheel-widget</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A Date Picker Wheel widget that actually adjusts for the different number of days in each months, and even accounts for leap years!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;mdsandell&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 27 Mar 2015 04:37:11 +0000</pubDate>
+ <dc:creator>mark.sandell</dc:creator>
+ <guid isPermaLink="false">172 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Advanced TableView Tactics</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-advanced-tableview-tactics</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Advanced TableView Tactics (&lt;a href=&quot;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&quot;&gt;http://coronalabs.com/blog/2014/03/04/tutorial-advanced-tableview-tactics/&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Feb 2015 00:10:02 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">158 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Code from Tutorial: Methods for Positioning Text</title>
+    <link>https://code.coronalabs.com/code/code-tutorial-methods-positioning-text</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Code from Tutorial: Methods for Positioning Text (&lt;a href=&quot;http://coronalabs.com/blog/2014/02/11/tutorial-methods-for-positioning-text/&quot;&gt;http://coronalabs.com/blog/2014/02/11/tutorial-methods-for-positioning-t...&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Rob Miracle&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 23:50:34 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">156 at https://code.coronalabs.com</guid>
+  </item>
+  <item>
+    <title>Tutorial: Moving Objects Along a Path</title>
+    <link>https://code.coronalabs.com/code/tutorial-moving-objects-along-path</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Project for the Moving Objects Along a Path tutorial at: &lt;a href=&quot;http://coronalabs.com/blog/2014/01/07/tutorial-moving-objects-along-a-path/&quot;&gt;http://coronalabs.com/blog/2014/01/07/tutorial-moving-objects-along-a-path/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-nickname field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Contributor:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Corona Rob&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 01 Feb 2015 01:59:55 +0000</pubDate>
+ <dc:creator>Corona Rob</dc:creator>
+ <guid isPermaLink="false">153 at https://code.coronalabs.com</guid>
+  </item>
+  </channel>
+</rss>
